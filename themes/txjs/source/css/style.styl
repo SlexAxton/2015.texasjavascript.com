@@ -11,23 +11,15 @@ body {
 
 /* Core Layout */
 
-//$sidebar-width = 400px;
-
-#header {
-}
+$sidebar-width = 220px;
 
 .ribbon {
-  //width: $sidebar-width - 140;
-  width: 200px;
+  width: $sidebar-width;
   height: 100%;
   position: fixed;
-  left: calc(33.33333% - 200px);
+  /* sidebar-width offset */
+  left: calc(33.33333% - 220px);
   background-color: #AAA;
-}
-
-#content,
-#footer {
-  //margin-left: $sidebar-width;
 }
 
 .container-header {
@@ -37,7 +29,6 @@ body {
   left: 0;
   height: 100%;
   overflow-y: auto;
-  //width: $sidebar-width;
   background-color: #CCC;
 }
 
