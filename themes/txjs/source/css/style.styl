@@ -9,6 +9,27 @@ body {
   overflow: hidden;
 }
 
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Scrollbar Track */
+::-webkit-scrollbar-track {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* Scrollbar Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.4);
+}
+::-webkit-scrollbar-thumb:window-inactive {
+  background: rgba(0,0,0,0.4);
+}
+
 /* Core Layout */
 
 $sidebar-width = 220px;
@@ -18,6 +39,7 @@ $sidebar-width = 220px;
   height: 100%;
   display: table-cell;
   background-color: #AAA;
+  padding: 0 1rem;
 }
 
 .container-header {
