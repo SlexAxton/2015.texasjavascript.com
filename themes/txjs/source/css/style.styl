@@ -23,7 +23,7 @@ body {
 ::-webkit-scrollbar-thumb {
     -webkit-border-radius: 10px;
     border-radius: 10px;
-    background: rgba(0,0,0,0.4);
+    background: rgba(0,0,0,0.2);
 }
 ::-webkit-scrollbar-thumb:window-inactive {
   background: rgba(0,0,0,0.4);
@@ -35,15 +35,26 @@ $sidebar-width = 220px;
 
 .ribbon {
   width: $sidebar-width;
-  //background-color: #2A2C5C;
-  //color: #FFF;
+  color: #FFF;
   font-size: .75rem;
   overflow-y: scroll;
   position: fixed;
+  z-index: 1;
   top: 5px;
   bottom: 5px;
   /* ribbon offset */
   padding-left: calc(33.33333% - 220px - 5px);
+}
+
+#header:after {
+  content:'';
+  background-color: #2A2C5C;
+  position: fixed;
+  top: 0;
+  right: calc(66.66666%);
+  bottom: 0;
+  /* ribbon offset */
+  width: calc(220px + 1rem + 10px);
 }
 
 .container-header {
