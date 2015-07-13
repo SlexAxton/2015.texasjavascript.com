@@ -16,9 +16,7 @@ $sidebar-width = 220px;
 .ribbon {
   width: $sidebar-width;
   height: 100%;
-  position: fixed;
-  /* sidebar-width offset */
-  left: calc(33.33333% - 220px);
+  display: table-cell;
   background-color: #AAA;
 }
 
@@ -30,6 +28,9 @@ $sidebar-width = 220px;
   height: 100%;
   overflow-y: auto;
   background-color: #CCC;
+  /* ribbon offset */
+  padding-left: calc(33.33333% - 220px);
+  box-sizing: border-box;
 }
 
 .container-article {
