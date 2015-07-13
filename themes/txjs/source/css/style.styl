@@ -5,29 +5,48 @@
 /* Global Styles */
 body {
   font-family: "helvetica neue", helvetica, arial, sans-serif;
+  background-color: brown;
+  overflow: hidden;
 }
 
 /* Core Layout */
 
-$sidebar-width = 400px;
+//$sidebar-width = 400px;
 
 #header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: $sidebar-width;
-  background-color: #CCC;
 }
 
 .ribbon {
-  width: $sidebar-width - 140;
+  //width: $sidebar-width - 140;
+  width: 200px;
   height: 100%;
-  float: right;
+  position: fixed;
+  left: calc(33.33333% - 200px);
   background-color: #AAA;
 }
 
 #content,
 #footer {
-  margin-left: $sidebar-width;
+  //margin-left: $sidebar-width;
+}
+
+.container-header {
+  position: fixed;
+  width: 33.33333%;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow-y: auto;
+  //width: $sidebar-width;
+  background-color: #CCC;
+}
+
+.container-article {
+  position: fixed;
+  right: 0;
+  left: 33.333333%;
+  top: 0;
+  height: 100%;
+  overflow-y: auto;
+  padding-right: 16.66666%;
 }

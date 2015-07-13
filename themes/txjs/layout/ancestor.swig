@@ -15,12 +15,19 @@
   <title>{% block title %}{{ config.title }}{% endblock %}</title>
 </head>
 <body>
-
-{% include '_partial/header.swig' %}
-<article id="content" class="container-fluid">
-    {% block primary %}{% endblock %}
-</article>
-{% include '_partial/footer.swig' %}
+<div class="container-fluid">
+  <div class="row">
+    <div class="container-header">
+      {% include '_partial/header.swig' %}
+    </div>
+    <div class="container-article">
+      <article id="content" class="container-fluid">
+        {% block primary %}{% endblock %}
+      </article>
+      {% include '_partial/footer.swig' %}
+    </div>
+  </div>
+</div>
 
 {% block scripts %}
 <script src="/js/txjs.js"></script>
