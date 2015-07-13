@@ -15,16 +15,11 @@
   <title>{% block title %}{{ config.title }}{% endblock %}</title>
 </head>
 <body>
-{% include '_partial/header.swig' %}
-<div id="content">
-  <div class="center">
-    <div class="main-col">
-      {% block primary %}{% endblock %}
-    </div>
-    {% block extends %}{% endblock %}
-  </div>
-</div>
 
+{% include '_partial/header.swig' %}
+<article id="content" class="container-fluid">
+    {% block primary %}{% endblock %}
+</article>
 {% include '_partial/footer.swig' %}
 
 {% block scripts %}

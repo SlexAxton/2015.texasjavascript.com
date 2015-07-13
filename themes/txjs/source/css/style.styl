@@ -2,6 +2,32 @@
 @import "./typebase";
 @import "./flexboxgrid";
 
+/* Global Styles */
 body {
   font-family: "helvetica neue", helvetica, arial, sans-serif;
+}
+
+/* Core Layout */
+
+$sidebar-width = 400px;
+
+#header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: $sidebar-width;
+  background-color: #CCC;
+}
+
+.ribbon {
+  width: $sidebar-width - 140;
+  height: 100%;
+  float: right;
+  background-color: #AAA;
+}
+
+#content,
+#footer {
+  margin-left: $sidebar-width;
 }
