@@ -5,7 +5,6 @@
 /* Global Styles */
 body {
   font-family: "helvetica neue", helvetica, arial, sans-serif;
-  background-color: brown;
   overflow: hidden;
 }
 
@@ -36,10 +35,11 @@ $sidebar-width = 220px;
 
 .ribbon {
   width: $sidebar-width;
-  height: 100%;
   display: table-cell;
-  background-color: #AAA;
+  background-color: #2A2C5C;
+  color: #FFF;
   padding: 0 1rem;
+  font-size: .75rem;
 }
 
 .container-header {
@@ -53,6 +53,11 @@ $sidebar-width = 220px;
   /* ribbon offset */
   padding-left: calc(33.33333% - 220px);
   box-sizing: border-box;
+}
+
+#header {
+  display: table;
+  height: 100%;
 }
 
 .container-article {
