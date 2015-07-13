@@ -14,28 +14,28 @@
       <a href="{{ config.root }}">{{ config.title }}</a>
     </h1>
     <nav id="menu">
-      <h3>Thursday</h3>
+      <h3>Thursday, July 23</h3>
       <ul>
-        <li>09:00am - Node Workshop</li>
-        <li>07:00pm - Hangout at Craft Pride</li>
+        <li>Node Workshop <span class="time">9:00am</span></li>
+        <li>Hangout at Craft Pride <span class="time">7:00pm</span></li>
       </ul>
 
-      <h3>Friday</h3>
+      <h3>Friday, July 24</h3>
       <ul>
-        <li>08:00am - Registration &amp; Tacos</li>
-        <li>08:50am - Welcome</li>
-        <li>09:00am - Talks: Scary Stuff</li>
-        <li>10:45am - Talks: UX &amp; Perf</li>
-        <li>12:15pm - Lunch in Town</li>
-        <li>01:45pm - Framework Unshootout</li>
-        <li>03:30pm - The Once &amp; Future Web</li>
-        <li>05:15pm - Expand Your Mind</li>
-        <li>07:00pm - Closing Party</li>
+        <li>Registration &amp; Tacos <span class="time">8:00am</span></li>
+        <li>Welcome <span class="time">8:50am</span></li>
+        <li>Talks: Scary Stuff <span class="time">9:00am</span></li>
+        <li>Talks: UX &amp; Perf <span class="time">10:45am</span></li>
+        <li>Lunch in Town <span class="time">12:15pm</span></li>
+        <li>Framework Unshootout <span class="time">1:45pm</span></li>
+        <li>The Once &amp; Future Web <span class="time">3:30pm</span></li>
+        <li>Expand Your Mind <span class="time">5:15pm</span></li>
+        <li>Closing Party <span class="time">7:00pm</span></li>
       </ul>
 
-      <h3>Saturday</h3>
+      <h3>Saturday, July 25</h3>
       <ul>
-        <li>09:00am - Nodebots Day Austin</li>
+        <li>Nodebots Day Austin <span class="time">9:00am</span></li>
       </ul>
     </nav>
   </div>

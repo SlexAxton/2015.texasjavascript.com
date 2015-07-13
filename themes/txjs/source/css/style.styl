@@ -36,15 +36,17 @@ $sidebar-width = 220px;
 .ribbon {
   width: $sidebar-width;
   color: #FFF;
+  text-align: right;
   font-size: .75rem;
   overflow-x: hidden;
   overflow-y: scroll;
   position: fixed;
-  z-index: 1;
-  top: $sidebar-width;
+  top: calc(220px + 1.5rem);
   bottom: 5px;
+  z-index: 1;
   /* ribbon offset */
-  padding-left: calc(33.33333% - 220px - 5px);
+  padding-left: calc(33.33333% - 220px - 5px - 1rem);
+  padding-right: 1rem;
 }
 
 #header .logo {
@@ -71,6 +73,22 @@ $sidebar-width = 220px;
   bottom: 0;
   /* ribbon offset */
   width: calc(220px + 1rem + 10px);
+}
+
+#header h3 {
+  margin: 0 0 .5rem;
+}
+
+#header ul {
+  margin: 0 0 1.5rem;
+}
+
+#header ul li .time {
+  display: inline-block;
+  min-width: 3.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  opacity: .5;
 }
 
 .container-header {
