@@ -41,10 +41,24 @@ $sidebar-width = 220px;
   overflow-y: scroll;
   position: fixed;
   z-index: 1;
-  top: 5px;
+  top: $sidebar-width;
   bottom: 5px;
   /* ribbon offset */
   padding-left: calc(33.33333% - 220px - 5px);
+}
+
+#header .logo {
+  max-width: $sidebar-width;
+  z-index: 2;
+  position: absolute;
+  right: 0;
+}
+
+#header .title {
+  text-indent: -9999px;
+  margin: 0;
+  height: 0;
+  overflow: hidden;
 }
 
 #header:after {
