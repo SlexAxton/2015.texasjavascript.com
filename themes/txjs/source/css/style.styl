@@ -35,24 +35,24 @@ $sidebar-width = 220px;
 
 .ribbon {
   width: $sidebar-width;
-  display: table-cell;
-  background-color: #2A2C5C;
-  color: #FFF;
-  padding: 0 1rem;
+  //background-color: #2A2C5C;
+  //color: #FFF;
   font-size: .75rem;
+  overflow-y: scroll;
+  position: fixed;
+  top: 5px;
+  bottom: 5px;
+  /* ribbon offset */
+  padding-left: calc(33.33333% - 220px - 5px);
 }
 
 .container-header {
   position: fixed;
   width: 33.33333%;
   top: 0;
+  bottom: 0;
   left: 0;
-  height: 100%;
-  overflow-y: auto;
   background-color: #CCC;
-  /* ribbon offset */
-  padding-left: calc(33.33333% - 220px);
-  box-sizing: border-box;
 }
 
 #header {
@@ -62,10 +62,10 @@ $sidebar-width = 220px;
 
 .container-article {
   position: fixed;
-  right: 0;
+  top: 5px;
+  right: 5px;
+  bottom: 5px;
   left: 33.333333%;
-  top: 0;
-  height: 100%;
   overflow-y: auto;
   padding-right: 16.66666%;
 }
