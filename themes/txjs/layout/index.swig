@@ -13,7 +13,7 @@
 
 <section class="row">
   <div class="col-xs">
-    <h1 id="tickets">Tickets</h1>
+    <h1 id="tickets">Texas Javascript Conference <em>TXJS</em></h1>
     <p>
       <em>Sorry!</em> Tickets to the conference are <strong>sold out</strong> and <strong>won't</strong>
       be available for purchase on the day of the conference.
