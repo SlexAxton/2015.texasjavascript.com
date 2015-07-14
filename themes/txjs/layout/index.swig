@@ -4,7 +4,7 @@
 <section class="row">
   <div class="col-xs">
     <h2 class="title-date">
-      Friday, July 24th<br>
+      Friday, July 24, 2015<br>
       <a href="https://goo.gl/maps/XFMSw">The Paramount Theatre</a>
     </h2>
     <p><a href="https://goo.gl/maps/XFMSw">713 Congress Ave, Austin, TX 78701</a></p>
