@@ -3,7 +3,11 @@
 {% block primary %}
 <section class="row">
   <div class="col-xs">
-    <h2>TXJS 2015 Is Friday, July 24th!</h2>
+    <h2>Friday, July 24th<br>
+    The Paramount Theatre</h2>
+    <p>
+    713 Congress Ave, Austin, TX 78701 <a href="https://goo.gl/maps/XFMSw">[map]</a>
+    </p>
   </div>
 </section>
 
@@ -24,17 +28,9 @@
 
 <section class="row">
   <div class="col-xs">
-    <h1 id="places">Places To Know</h1>
-
-    <h2>The Paramount Theatre</h2>
-    <p>
-    713 Congress Ave,<br>
-    Austin, TX 78701<br>
-      <a href="https://goo.gl/maps/XFMSw">[map]</a>
-    </p>
-    <p>
-      The main conference will be held at The Paramount Theatre.
-    </p>
+    <h1 id="places">Head</h1>
+    <h2>Subhead</h2>
+    <p>Lorem ipsum.</p>
   </div>
 </section>
 
