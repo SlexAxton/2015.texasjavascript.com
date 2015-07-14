@@ -3,11 +3,11 @@
 {% block primary %}
 <section class="row">
   <div class="col-xs">
-    <h2>Friday, July 24th<br>
-    The Paramount Theatre</h2>
-    <p>
-    713 Congress Ave, Austin, TX 78701 <a href="https://goo.gl/maps/XFMSw">[map]</a>
-    </p>
+    <h2 class="title-date">
+      Friday, July 24th<br>
+      <a href="https://goo.gl/maps/XFMSw">The Paramount Theatre</a>
+    </h2>
+    <p><a href="https://goo.gl/maps/XFMSw">713 Congress Ave, Austin, TX 78701</a></p>
   </div>
 </section>
 
