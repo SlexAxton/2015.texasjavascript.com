@@ -4,7 +4,6 @@
 
 /* Global Styles */
 body {
-  font-family: "helvetica neue", helvetica, arial, sans-serif;
   overflow: hidden;
 }
 
@@ -33,6 +32,11 @@ body {
 
 $sidebar-width = 220px;
 
+.container-fluid {
+  padding-right: 3rem;
+  padding-left: 3rem;
+}
+
 .ribbon {
   width: $sidebar-width;
   color: #FFF;
@@ -45,7 +49,7 @@ $sidebar-width = 220px;
   bottom: 5px;
   z-index: 1;
   /* ribbon offset */
-  padding-left: calc(33.33333% - 220px - 5px - 1rem);
+  padding-left: calc(40% - 220px - 5px - 1.5rem);
   padding-right: 1rem;
 }
 
@@ -69,10 +73,10 @@ $sidebar-width = 220px;
   opacity: .95;
   position: fixed;
   top: 0;
-  right: 66.66666%;
+  right: 60%;
   bottom: 0;
   /* ribbon offset */
-  width: calc(220px + 1rem + 10px);
+  width: calc(220px + 2rem + 10px);
 }
 
 #header h3 {
@@ -93,7 +97,7 @@ $sidebar-width = 220px;
 
 .container-header {
   position: fixed;
-  width: 33.33333%;
+  width: 40%;
   top: 0;
   bottom: 0;
   left: 0;
@@ -107,7 +111,7 @@ $sidebar-width = 220px;
   top: 5px;
   right: 5px;
   bottom: 5px;
-  left: 33.333333%;
+  left: 40%;
   overflow-y: auto;
   padding-right: 16.66666%;
 }

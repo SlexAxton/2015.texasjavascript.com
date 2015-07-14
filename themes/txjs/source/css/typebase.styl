@@ -5,13 +5,13 @@ $baseLineHeight = 1.5; // how large the line height is as a multiple of font siz
 $leading = $baseLineHeight * 1rem;
 // Rate of growth for headings
 // I actually like this to be slightly smaller then the leading. Makes for tight headings.
-$scale = 1.214;
+$scale = 1;
 
 /* Setup */
 
 html {
     /* Change default typefaces here */
-    font-family: serif;
+    font-family: 'Helvetica Neue';
     font-size: ($baseFontSize / 16) * 100%;
     /* Make everything look a little nicer in webkit */
     -webkit-font-smoothing: antialiased;
@@ -50,20 +50,22 @@ h4,
 h5,
 h6 {
     /* Change heading typefaces here */
-    font-family: sans-serif;
     margin-top: $leading;
     margin-bottom: 0;
     line-height: $leading;
+    font-weight: bold;
 }
 h1 {
     font-size: (3 * $scale) * 1rem;
     line-height: 3 * $leading;
     margin-top: 2 * $leading;
+    letter-spacing: -.16rem;
 }
 h2 {
     font-size: (2 * $scale) * 1rem;
     line-height: 2 * $leading;
     margin-top: 2 * $leading;
+    letter-spacing: -.08rem;
 }
 h3 {
     font-size: (1 * $scale) * 1rem;
