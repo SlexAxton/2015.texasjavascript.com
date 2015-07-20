@@ -12,6 +12,9 @@ a {
   color: #E2273A;
   text-decoration: none;
 }
+a:hover {
+  text-decoration: underline;
+}
 
 h1,h2,h3,h4,h5,h6 {
   color: #2A2C5C;
@@ -54,6 +57,10 @@ $sidebar-width = 220px;
 
 .row {
   margin-bottom: 2.5rem;
+}
+
+.row.small-bottom {
+  margin-bottom: 0.5rem;
 }
 
 .container-article {
@@ -126,8 +133,9 @@ $sidebar-width = 220px;
   bottom: 0;
   left: 0;
   background-color: #CCC;
-  background-image: url('http://f.cl.ly/items/1W060e0m200Z3Z2R0x2d/holler.jpg');
+  background-image: url('http://slex.me/image/352y3F0J3s1m/bluebonnets.jpg');
   background-size: cover;
+  background-position-x: -100px;
 }
 
 .container-article {
@@ -138,4 +146,69 @@ $sidebar-width = 220px;
   left: 40%;
   overflow-y: auto;
   padding-right: 16.66666%;
+}
+
+.section-header--sponsored {
+  margin-bottom: 4px;
+}
+
+.presented-by {
+  font-size: 16px;
+}
+
+h1 + .presented-by {
+  padding-left: 4px;
+}
+
+.time-header {
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.innerheader {
+  font-size: 26px;
+  font-variant: smallcaps;
+}
+
+p strong {
+  font-weight: bold;
+}
+p em {
+  font-style: italic;
+}
+
+.speaker-list {
+  padding: 10px 10px 10px 0;
+}
+
+.speaker-list img {
+  max-height: 150px;
+  max-width: 150px;
+  width: 100%;
+  background-color: #888;
+  display: inline-block;
+}
+.speaker-list .speaker-label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.food-header {
+  font-size: 22px;
+  margin-bottom: 0.5rem;
+}
+.food-note {
+  font-size: 12px;
+  padding-left: 10px;
+  color: #555;
+}
+.food-group {
+  margin-top: 0.5rem;
+}
+.food-group li a {
+  font-size: 18px;
+}
+
+.row.small-bottom.big-space {
+  margin-bottom: 10rem;
 }

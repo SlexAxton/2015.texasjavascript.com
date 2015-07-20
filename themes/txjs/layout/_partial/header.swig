@@ -17,7 +17,7 @@
       <h3>Thursday, July 23</h3>
       <ul>
         <li>Node Workshop <span class="time">9:00am</span></li>
-        <li>Hangout at Craft Pride <span class="time">7:00pm</span></li>
+        <li>Hangout at Craft Pride <span class="time">6:30pm</span></li>
       </ul>
 
       <h3>Friday, July 24</h3>
