@@ -16,26 +16,26 @@
     <nav id="menu">
       <h3>Thursday, July 23</h3>
       <ul>
-        <li>Node Workshop <span class="time">9:00am</span></li>
-        <li>Hangout at Craft Pride <span class="time">6:30pm</span></li>
+        <li><a href="#otherevents">Node Workshop <span class="time">9:00am</span></a></li>
+        <li><a href="#craftpride">Hangout at Craft Pride <span class="time">6:30pm</span></a></li>
       </ul>
 
       <h3>Friday, July 24</h3>
       <ul>
-        <li>Registration &amp; Tacos <span class="time">8:00am</span></li>
-        <li>Welcome to TXJS <span class="time">8:50am</span></li>
-        <li>Talks: Scary Stuff <span class="time">9:00am</span></li>
-        <li>Talks: UX &amp; Perf <span class="time">10:45am</span></li>
-        <li>Lunch in Town <span class="time">12:15pm</span></li>
-        <li>Framework Unshootout <span class="time">1:45pm</span></li>
-        <li>The Once &amp; Future Web <span class="time">3:30pm</span></li>
-        <li>Expand Your Mind <span class="time">5:15pm</span></li>
-        <li>Closing Party <span class="time">7:00pm</span></li>
+        <li><a href="#registration">Registration &amp; Tacos <span class="time">8:00am</span></a></li>
+        <li><a href="#welcome">Welcome to TXJS <span class="time">8:50am</span></a></li>
+        <li><a href="#scarystuff">Scary Stuff <span class="time">9:00am</span></a></li>
+        <li><a href="#uxandperf">UX &amp; Perf <span class="time">10:45am</span></a></li>
+        <li><a href="#lunch">Lunch in Town <span class="time">12:15pm</span></a></li>
+        <li><a href="#frameworkunshootout">Framework Unshootout <span class="time">1:45pm</span></a></li>
+        <li><a href="#thefuture">The Once &amp; Future Web <span class="time">3:30pm</span></a></li>
+        <li><a href="#expandyourmind">Expand Your Mind <span class="time">5:15pm</span></a></li>
+        <li><a href="#afterparty">Closing Party <span class="time">7:00pm</span></a></li>
       </ul>
 
       <h3>Saturday, July 25</h3>
       <ul>
-        <li>Nodebots Day Austin <span class="time">9:00am</span></li>
+        <li><a href="#otherevents">Nodebots Day Austin <span class="time">9:00am</span></li>
       </ul>
     </nav>
   </div>

@@ -25,7 +25,7 @@
       <em>Sorry!</em> Tickets to the conference are <strong>sold out</strong> and <strong>won't</strong>
       be available for purchase on the day of the conference.
     </p>
-    <h3 class="innerheader">Node Workshop &amp; Node Bots Day</h3>
+    <h3 id="otherevents" class="innerheader">Node Workshop &amp; Node Bots Day</h3>
     <p>
       There are still tickets available for the <a href="https://bocoup.com/weblog/txjs-node-workshop/">Node Workshop</a> and
       the <a href="http://austinnodebots.com/">Node Bots Day</a> events. However, these do not provide access to
@@ -47,9 +47,9 @@
 
 
 <section class="row small-bottom">
-  <div class="col-xs">
+  <div id="craftpride" class="col-xs">
     <h2 class="time-header">6:30pm - 9:30pm at <a href="https://goo.gl/maps/DkGe4">Craft Pride</a></h2>
-    <h1 id="tickets" class="section-header--sponsored">Thursday Night <br><em>Gathering</em></h1>
+    <h1 class="section-header--sponsored">Thursday Night <br><em>Gathering</em></h1>
     <h6 class="presented-by">Sponsored by <a href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html">Bazaarvoice</a></h6>
   </div>
 </section>
@@ -80,9 +80,9 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="registration" class="col-xs">
     <h2 class="time-header">8:00 - 8:50am</h2>
-    <h1 id="registration">Registration</h1>
+    <h1>Registration</h1>
     <h6 class="presented-by">With Tacodeli Breakfast Tacos sponsored by <a href="http://www.spiceworks.com/jobs/">Spiceworks</a></h6>
     <p>If you didn't get registered at Craft Pride on Thursday, you'll want to make sure you show
     up with enough time to get your badge and check in. Additionally, if you've ever wanted to taste
@@ -93,9 +93,9 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="welcome" class="col-xs">
     <h2 class="time-header">8:50 - 9:00am</h2>
-    <h1 id="welcome">Welcome to TXJS</h1>
+    <h1>Welcome to TXJS</h1>
     <h6 class="presented-by">Fast &amp; Reliable WiFi sponsored by <a href="https://www.spredfast.com/about-us/careers/">Spredfast</a></h6>
     <p>We'll start our day pretty early, but it'll be worth it because we've got a giant list of
     amazing speakers to share with you.</p>
@@ -115,9 +115,9 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="hallwaytrack" class="col-xs">
     <h2 class="time-header">All Day</h2>
-    <h1 id="hallwaytrack">The Hallway Track</h1>
+    <h1>The Hallway Track</h1>
     <h6 class="presented-by">Drinks and refreshments sponsored by <a href="https://ustudio.com/solutions#video-platform-apis-0">uStudio</a></h6>
     <p>We've jam packed the day with talks. We'll have a 15 minute break between each of the groups
       of talks, but you're also free to hang out in the front of The Paramount at any time during
@@ -129,26 +129,26 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="scarystuff" class="col-xs">
     <h2 class="time-header">9:00 - 10:30am</h2>
-    <h1 id="scarystuff">Talks: The Scary Stuff</h1>
+    <h1>Talks: The Scary Stuff</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/simon_swain">
-            <img src="/img/speaker-simon.jpg"/>
+            <img src="/pixels/speaker-simon.jpg" />
             <span class="speaker-label">Simon Swain</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/bcrypt">
-            <img src="/img/speaker-yan.jpg"/>
+            <img src="/pixels/speaker-yan.jpg" />
             <span class="speaker-label">Yan Zhu</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/jedschmidt">
-            <img src="/img/speaker-jed.jpg"/>
+            <img src="/pixels/speaker-jed.jpg" />
             <span class="speaker-label">Jed Schmidt</span>
           </a>
         </li>
@@ -164,26 +164,26 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="uxandperf" class="col-xs">
     <h2 class="time-header">10:45am - 12:15pm</h2>
-    <h1 id="uxandperf">Talks: UX &amp; Performance</h1>
+    <h1>Talks: UX &amp; Performance</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/hazelcough">
-            <img src="/img/speaker-michelle.jpg"/>
+            <img src="/pixels/speaker-michelle.jpg" />
             <span class="speaker-label">Michelle Bu</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/andydavies">
-            <img src="/img/speaker-andy.jpg"/>
+            <img src="/pixels/speaker-andy.jpg" />
             <span class="speaker-label">Andy Davies</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/alicebartlett">
-            <img src="/img/speaker-alice.jpg"/>
+            <img src="/pixels/speaker-alice.jpg" />
             <span class="speaker-label">Alice Bartlett</span>
           </a>
         </li>
@@ -199,9 +199,9 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="lunch" class="col-xs">
     <h2 class="time-header">12:15 - 1:45pm</h2>
-    <h1 id="lunch">Lunch in Town</h1>
+    <h1>Lunch in Town</h1>
     <p>
     We learned very quickly that we couldn't match the level of great food that's in a short walking
     distance from the conference venue. So we dropped the cold-cuts and mini-plates for an hour and
@@ -273,26 +273,26 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="frameworkunshootout" class="col-xs">
     <h2 class="time-header">1:45 - 3:15pm</h2>
-    <h1 id="frameworkunshootout">Talks: Framework Unshootout</h1>
+    <h1>Talks: Framework Unshootout</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/briantford">
-            <img src="/img/speaker-brian.jpg"/>
+            <img src="/pixels/speaker-brian.jpg" />
             <span class="speaker-label">Brian Ford</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/tomdale">
-            <img src="/img/speaker-tom.jpg"/>
+            <img src="/pixels/speaker-tom.jpg" />
             <span class="speaker-label">Tom Dale</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/petehunt">
-            <img src="/img/speaker-pete.jpg"/>
+            <img src="/pixels/speaker-pete.jpg" />
             <span class="speaker-label">Pete Hunt</span>
           </a>
         </li>
@@ -313,26 +313,26 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="thefuture" class="col-xs">
     <h2 class="time-header">3:30 - 5:00pm</h2>
-    <h1 id="thefuture">Talks: The Once &amp; Future Web</h1>
+    <h1>Talks: The Once &amp; Future Web</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/copasetickid">
-            <img src="/img/speaker-rushaine.jpg"/>
+            <img src="/pixels/speaker-rushaine.jpg" />
             <span class="speaker-label">Rushaine McBean</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/wilto">
-            <img src="/img/speaker-mat.jpg"/>
+            <img src="/pixels/speaker-mat.jpg" />
             <span class="speaker-label">Mat Marquis</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/jaffathecake">
-            <img src="/img/speaker-jake.jpg"/>
+            <img src="/pixels/speaker-jake.jpg" />
             <span class="speaker-label">Jake Archibald</span>
           </a>
         </li>
@@ -346,26 +346,26 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="expandyourmind" class="col-xs">
     <h2 class="time-header">5:15 - 6:45pm</h2>
-    <h1 id="expandyourmind">Talks: Expand Your Mind</h1>
+    <h1>Talks: Expand Your Mind</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/zeigenvector">
-            <img src="/img/speaker-jenna.jpg"/>
+            <img src="/pixels/speaker-jenna.jpg" />
             <span class="speaker-label">Jenna Zeigen</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/swannodette">
-            <img src="/img/speaker-david.jpg"/>
+            <img src="/pixels/speaker-david.jpg" />
             <span class="speaker-label">David Nolen</span>
           </a>
         </li>
         <li class="col-sm-12 col-md-4">
           <a href="https://twitter.com/jennschiffer">
-            <img src="/img/speaker-jenn.jpg"/>
+            <img src="/pixels/speaker-jenn.jpg" />
             <span class="speaker-label">Jenn Schiffer</span>
           </a>
         </li>
@@ -381,9 +381,9 @@
 </section>
 
 <section class="row">
-  <div class="col-xs">
+  <div id="afterparty" class="col-xs">
     <h2 class="time-header">7:00 - 10:00pm</h2>
-    <h1 id="afterparty">The After Party at <a href="">The Rattle Inn</a></h1>
+    <h1>The After Party at <a href="">The Rattle Inn</a></h1>
     <h6 class="presented-by">Sponsored by <a href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">Homeaway</a></h6>
 
     <p>
