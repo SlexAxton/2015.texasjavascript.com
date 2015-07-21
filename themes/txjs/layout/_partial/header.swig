@@ -35,7 +35,7 @@
 
       <h3>Saturday, July 25</h3>
       <ul>
-        <li><a href="#otherevents">Nodebots Day Austin <span class="time">9:00am</span></li>
+        <li><a href="#otherevents">Nodebots Day Austin <span class="time">9:00am</span></a></li>
       </ul>
     </nav>
   </div>

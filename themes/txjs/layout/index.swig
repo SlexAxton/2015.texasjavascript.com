@@ -14,7 +14,8 @@
 <section class="row small-bottom big-space">
   <div class="col-xs">
     <h1 id="tickets" class="section-header--sponsored">Texas Javascript Conference <em>TXJS</em></h1>
-    <h6 class="presented-by">Sponsored by <a href="https://bocoup.com">Bocoup</a></h6>
+    <a href=http://www.bocoup.com/></a>
+    <h6 class="presented-by">Sponsored by <a href="https://bocoup.com" style="padding-left:30px;"><img src=pixels/sponsors/bocoup-450.png alt="Bocoup" width=20 height=32 style="position:absolute;margin-top:-5px;margin-left:-26px;" /> Bocoup</a></h6>
   </div>
 </section>
 
@@ -42,6 +43,9 @@
     <p>The window for Diversity Scholarships has ended, but we'd like to thank
     <a href="http://www.retailmenot.com/corp/careers/">RetailMeNot</a> for sponsoring fully paid scholarships
     for TXJS. We're so lucky to have such great local sponsors.</p>
+    <p>
+      <a href="http://www.retailmenot.com/corp/careers/"><img src="pixels/sponsors/rmn-dark.png" style="padding-top:30px;" width=300 alt="RetailMeNot" /></a>
+    </p>
   </div>
 </section>
 
@@ -76,6 +80,10 @@
       </a>
       </span>
     </p>
+
+    <p>
+      <a href=http://www.bazaarvoice.com/careers/research-and-development/front-end.html><img src=pixels/sponsors/bv.png style="padding:20px 0;" width=300 alt="Bazaarvoice" /></a>
+    </p>
   </div>
 </section>
 
@@ -89,6 +97,9 @@
     the best breakfast tacos of your entire life, you should also show up a little early.</p>
     <p>Thanks to <a href="http://www.spiceworks.com/jobs/">Spiceworks</a>, we'll have Tacodeli breakfast tacos available in the
     morning. Make sure you find some of them and thank them with a full mouth of eggs and chorizo.</p>
+    <p>
+      <a href="http://www.spiceworks.com/jobs/"><img src="pixels/sponsors/spiceworks-logo.svg" style="padding:45px 0;" width="300" alt="Spiceworks" /></a>
+    </p>
   </div>
 </section>
 
@@ -111,6 +122,10 @@
     The topics of the talks are loosely related to each other, but the presenters are each providing
     a unique view into different aspects of a general topic.
     </p>
+
+    <p>
+      <a href=https://www.spredfast.com/about-us/careers/><img src=pixels/sponsors/spredfast-logo-2.svg width=300 style="padding-top:20px;" alt="Spredfast" /></a>
+    </p>
   </div>
 </section>
 
@@ -125,6 +140,9 @@
       get thirsty or edgy at any point during the day, you can grab some quick refreshments just outside
       of the theatre!
     </p>
+    <p>
+      <a href="https://ustudio.com/solutions#video-platform-apis-0"><img src="pixels/sponsors/sponsor-ustudio.svg" style="padding:20px 0;" width="300" alt="ustudio" /></a>
+    </p>
   </div>
 </section>
 
@@ -134,19 +152,19 @@
     <h1>Talks: The Scary Stuff</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/simon_swain">
             <img src="/pixels/speaker-simon.jpg" />
             <span class="speaker-label">Simon Swain</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/bcrypt">
             <img src="/pixels/speaker-yan.jpg" />
             <span class="speaker-label">Yan Zhu</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/jedschmidt">
             <img src="/pixels/speaker-jed.jpg" />
             <span class="speaker-label">Jed Schmidt</span>
@@ -169,19 +187,19 @@
     <h1>Talks: UX &amp; Performance</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/hazelcough">
             <img src="/pixels/speaker-michelle.jpg" />
             <span class="speaker-label">Michelle Bu</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/andydavies">
             <img src="/pixels/speaker-andy.jpg" />
             <span class="speaker-label">Andy Davies</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/alicebartlett">
             <img src="/pixels/speaker-alice.jpg" />
             <span class="speaker-label">Alice Bartlett</span>
@@ -214,60 +232,60 @@
 
     <h4 class="food-header">Foodie-rrific</h4>
     <ul class="food-group">
-      <li><a href="">Trace</a></li>
-      <li><a href="">Parkside</a></li>
-      <li><a href="">Swift’s Attic</a></li>
-      <li><a href="">Second</a></li>
-      <li><a href="">La Condesa</a> <span class="food-note">Often very busy</span></li>
+      <li><a href="https://goo.gl/maps/fLJjx">Trace</a></li>
+      <li><a href="https://goo.gl/maps/hHXTJ">Parkside</a></li>
+      <li><a href="https://goo.gl/maps/VPhQR">Swift’s Attic</a></li>
+      <li><a href="https://goo.gl/maps/Bq1UJ">Second Bar + Kitchen</a></li>
+      <li><a href="https://goo.gl/maps/2mswz">La Condesa</a> <span class="food-note">Often very busy</span></li>
     </ul>
 
     <h4 class="food-header">Burgers</h4>
     <ul class="food-group">
-      <li><a href="">Eureka</a> <span class="food-note">Try the <em>Marrow Burger</em></span></li>
-      <li><a href="">Roaring Fork</a> <span class="food-note">The <em>Big Ass Burger</em> is delicious</span></li>
-      <li><a href="">Casino El Camino</a> <span class="food-note">Some damn good burgers and burger mashups</span></li>
-      <li><a href="">Jackalope</a> <span class="food-note">diiive</span></li>
-      <li><a href="">P. Terry’s</a> <span class="food-note">Austin's In-N-Out</span></li>
+      <li><a href="https://goo.gl/maps/G9npW">Eureka</a> <span class="food-note">Try the <em>Marrow Burger</em></span></li>
+      <li><a href="https://goo.gl/maps/B8rXV">Roaring Fork</a> <span class="food-note">The <em>Big Ass Burger</em> is delicious</span></li>
+      <li><a href="https://goo.gl/maps/NpNpa">Casino El Camino</a> <span class="food-note">Some damn good burgers and burger mashups</span></li>
+      <li><a href="https://goo.gl/maps/EVhbm">Jackalope</a> <span class="food-note">diiive</span></li>
+      <li><a href="https://goo.gl/maps/uGbm3">P. Terry’s</a> <span class="food-note">Austin's In-N-Out</span></li>
     </ul>
 
     <h4 class="food-header">Pizza! Pizza!</h4>
     <ul class="food-group">
-      <li><a href="">Backspace</a></li>
-      <li><a href="">Gino’s East</a></li>
+      <li><a href="https://goo.gl/maps/xQIuk">Backspace</a></li>
+      <li><a href="https://goo.gl/maps/Vqe7A">Gino’s East</a></li>
     </ul>
 
     <h4 class="food-header">Pub Grub</h4>
     <ul class="food-group">
-      <li><a href="">BD Riley's Pub</a> <span class="food-note">Good Pub Food and Beer</span></li>
-      <li><a href="">Easy Tiger</a> <span class="food-note">Beer Garden and Grub</span></li>
-      <li><a href="">Frank</a> <span class="food-note">Gourmet Hotdogs &amp; Good Coffee</span></li>
+      <li><a href="https://goo.gl/maps/J4dRf">BD Riley's Pub</a> <span class="food-note">Good Pub Food and Beer</span></li>
+      <li><a href="https://goo.gl/maps/8PAqB">Easy Tiger</a> <span class="food-note">Beer Garden and Grub</span></li>
+      <li><a href="https://goo.gl/maps/fXGYZ">Frank</a> <span class="food-note">Gourmet Hotdogs &amp; Good Coffee</span></li>
     </ul>
 
 
     <h4 class="food-header">The Ultimate Texas Tradition: Barbeque</h4>
     <ul class="food-group">
-      <li><a href="">Stubb’s Bar-B-Q</a></li>
-      <li><a href="">Lamberts</a> <span class="food-note">Move quickly</span></li>
+      <li><a href="https://goo.gl/maps/pGDVW">Stubb’s Bar-B-Q</a></li>
+      <li><a href="https://goo.gl/maps/2Evgw">Lamberts</a> <span class="food-note">Move quickly</span></li>
     </ul>
 
     <h4 class="food-header">Special Mentions</h4>
     <ul class="food-group">
-      <li><a href="">Gourdough’s</a> <span class="food-note">Doughnut based savory food?!</span></li>
-      <li><a href="">Gus’s</a> <span class="food-note">Fried Chickennnnn</span></li>
-      <li><a href="">Leaf</a> <span class="food-note">If you eat salad in Texas</span></li>
+      <li><a href="https://goo.gl/maps/6f1zG">Gourdough’s</a> <span class="food-note">Doughnut based savory food?!</span></li>
+      <li><a href="https://goo.gl/maps/aNLvO">Gus’s</a> <span class="food-note">Fried Chickennnnn</span></li>
+      <li><a href="https://goo.gl/maps/K9guw">Leaf</a> <span class="food-note">If you eat salad in Texas</span></li>
     </ul>
 
     <h4 class="food-header">Puts the Mex in the Tex</h4>
     <ul class="food-group">
-      <li><a href="">Pelon’s</a></li>
-      <li><a href="">Uncle Julio’s</a></li>
+      <li><a href="https://goo.gl/maps/VHEvL">Pelon’s</a></li>
+      <li><a href="https://goo.gl/maps/fdJ86">Uncle Julio’s</a></li>
     </ul>
 
     <h4 class="food-header">Coffee: The Anti-Nap</h4>
     <ul class="food-group">
-      <li><a href="">Cafe Medici</a> <span class="food-note">Texas roasted Cuvée coffee!</span></li>
-      <li><a href="">Patika</a></li>
-      <li><a href="">Houndstooth</a></li>
+      <li><a href="https://goo.gl/maps/sJNvk">Cafe Medici</a> <span class="food-note">Texas roasted Cuvée coffee!</span></li>
+      <li><a href="https://goo.gl/maps/uLCcN">Patika</a></li>
+      <li><a href="https://goo.gl/maps/MJn80">Houndstooth</a></li>
     </ul>
   </div>
 </section>
@@ -278,19 +296,19 @@
     <h1>Talks: Framework Unshootout</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/briantford">
             <img src="/pixels/speaker-brian.jpg" />
             <span class="speaker-label">Brian Ford</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/tomdale">
             <img src="/pixels/speaker-tom.jpg" />
             <span class="speaker-label">Tom Dale</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/petehunt">
             <img src="/pixels/speaker-pete.jpg" />
             <span class="speaker-label">Pete Hunt</span>
@@ -318,19 +336,19 @@
     <h1>Talks: The Once &amp; Future Web</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/copasetickid">
             <img src="/pixels/speaker-rushaine.jpg" />
             <span class="speaker-label">Rushaine McBean</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/wilto">
             <img src="/pixels/speaker-mat.jpg" />
             <span class="speaker-label">Mat Marquis</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/jaffathecake">
             <img src="/pixels/speaker-jake.jpg" />
             <span class="speaker-label">Jake Archibald</span>
@@ -351,19 +369,19 @@
     <h1>Talks: Expand Your Mind</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/zeigenvector">
             <img src="/pixels/speaker-jenna.jpg" />
             <span class="speaker-label">Jenna Zeigen</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/swannodette">
             <img src="/pixels/speaker-david.jpg" />
             <span class="speaker-label">David Nolen</span>
           </a>
         </li>
-        <li class="col-sm-12 col-md-4">
+        <li class="col-xs-4">
           <a href="https://twitter.com/jennschiffer">
             <img src="/pixels/speaker-jenn.jpg" />
             <span class="speaker-label">Jenn Schiffer</span>
@@ -383,17 +401,22 @@
 <section class="row">
   <div id="afterparty" class="col-xs">
     <h2 class="time-header">7:00 - 10:00pm</h2>
-    <h1>The After Party at <a href="">The Rattle Inn</a></h1>
+    <h1>The After Party at <br><a href="https://goo.gl/maps/78KTt">The Rattle Inn</a></h1>
     <h6 class="presented-by">Sponsored by <a href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">Homeaway</a></h6>
 
     <p>
     After so many brain-melting hours of Front-Ends and JavaScripts, <a href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">Homeaway</a>
-    is excited to to invite you to <a href="">The Rattle Inn</a> for the TXJS After Party. The Rattle
+    is excited to to invite you to <a href="https://goo.gl/maps/78KTt">The Rattle Inn</a> for the TXJS After Party. The Rattle
     Inn is only a few blocks away from The Paramount. We'll have some games and karaoke/DJ, and Homeaway
     is covering the tab for the night (if that's your thing!).
     </p>
     <p>We won't be serving full dinner, but there are food trailers close by for your supper-y wishes.
     All ages are welcome from 7-10pm.</p>
+    <p>
+      <a href=http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4>
+        <img src=pixels/sponsors/homeaway-logo.svg width="300" style="padding-top:2px;" alt="Homeaway" />
+      </a>
+    </p>
   </div>
 </section>
 

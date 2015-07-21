@@ -133,9 +133,8 @@ $sidebar-width = 220px;
   bottom: 0;
   left: 0;
   background-color: #CCC;
-  background-image: url('http://slex.me/image/352y3F0J3s1m/bluebonnets.jpg');
+  background-image: url('/pixels/bluebonnets.jpg');
   background-size: cover;
-  background-position-x: -100px;
 }
 
 .container-article {
@@ -154,10 +153,6 @@ $sidebar-width = 220px;
 
 .presented-by {
   font-size: 16px;
-}
-
-h1 + .presented-by {
-  padding-left: 4px;
 }
 
 .time-header {
@@ -191,6 +186,7 @@ p em {
 .speaker-list .speaker-label {
   display: block;
   margin-bottom: 0.5rem;
+  text-align: center;
 }
 .speaker-list img {
   border: 3px solid #333;
@@ -219,4 +215,14 @@ p em {
 
 #menu a {
   color: #fff;
+}
+
+@media only screen and (max-width: 64em) {
+  .container-article {
+    padding-right: 1rem;
+  }
+}
+
+#footer {
+  margin-top: 100px;
 }
