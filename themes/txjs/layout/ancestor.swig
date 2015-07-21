@@ -34,7 +34,7 @@
 
 {% block scripts %}
 <script>
-  if ('serviceWorker' in navigator) {
+  if (false && 'serviceWorker' in navigator) {
     navigator.serviceWorker.register('/sw.js', {scope: '/'}).catch(function(error) {
       console.error('Couldn\'t register service worker.');
       throw error;
