@@ -73,3 +73,11 @@ deploy:
 
 stylus:
   compress: false
+
+deploy:
+  type: rsync
+  host: alexsexton.com
+  user: slex
+  root: /var/www/texasjavascript.com/subdomains/2015/public/
+  delete: false
+  verbose: true
