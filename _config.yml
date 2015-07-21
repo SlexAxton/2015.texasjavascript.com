@@ -78,6 +78,7 @@ deploy:
   type: rsync
   host: alexsexton.com
   user: slex
-  root: /var/www/texasjavascript.com/subdomains/2015/public/
-  delete: false
+  root: /var/www/texasjavascript.com/subdomains/2015/static-build/
+  port: 22
+  delete: true
   verbose: true
