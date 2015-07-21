@@ -51,8 +51,9 @@ self.addEventListener('fetch', function(event) {
           });
         }
       }).catch(function(error) {
+        //swallow errors?
         //console.error('  Read-through caching failed:', error);
-        throw error;
+        //throw error;
       });
     })
   );
