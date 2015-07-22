@@ -27,18 +27,18 @@
       be available for purchase on the day of the conference.
     </p>
 
-    <h3 id="otherevents" class="innerheader">Node Workshop &amp; Node Bots Day</h3>
+    <h3 id="otherevents" class="innerheader">Node Workshop &amp; NodeBots Day</h3>
     <p>
       There are still tickets available for the <a href="https://bocoup.com/weblog/txjs-node-workshop/">Node Workshop</a> and
-      the <a href="http://austinnodebots.com/">Node Bots Day</a> events. However, these do not provide access to
+      the <a href="http://austinnodebots.com/">NodeBots Day</a> events. However, these do not provide access to
       TXJS.
     </p>
 
     <h3 class="innerheader">Code of Conduct</h3>
     <p>We have a <a href="/code-of-conduct/">Code of Conduct</a> that applies to all attendees, speakers, and staff members.
-    Please read it. TXJS is fun and we expect you'll have a lot of fun, but please remember that it's primarily a professional
+    Please read it. TXJS is fun, and we expect you'll have a lot of fun, but please remember that it's primarily a professional
     conference.</p>
-    <p>If you need to report any behavior that you believe to be in violation of the TXJS Code of Conduct you can immediately
+    <p>If you need to report any behavior that you believe to be in violation of the TXJS Code of Conduct, you can immediately
     find a person in a TXJS shirt (will be shown at the start of the day). You can also DM the
     <a href="https://twitter.com/txjs">@txjs</a> account on twitter.</p>
 
@@ -87,7 +87,7 @@
       <br>
 
       <a href="https://goo.gl/maps/DkGe4">
-        61 Rainey St,<br>Austin, TX 78701
+        61 Rainey St<br>Austin, TX 78701
       </a>
       </span>
     </p>
@@ -145,7 +145,7 @@
     <h2 class="time-header">All Day</h2>
     <h1>The Hallway Track</h1>
     <h6 class="presented-by">Drinks and refreshments sponsored by <a href="https://ustudio.com/solutions#video-platform-apis-0">uStudio</a></h6>
-    <p>We've jam packed the day with talks. We'll have a 15 minute break between each of the groups
+    <p>We've jam packed the day with talks. We'll have a 15-minute break between each of the groups
       of talks, but you're also free to hang out in the front of The Paramount at any time during
       the conference. Thanks to <a href="https://ustudio.com/solutions#video-platform-apis-0">uStudio</a>, if you
       get thirsty or edgy at any point during the day, you can grab some quick refreshments just outside
@@ -232,13 +232,13 @@
     <h2 class="time-header">12:15 - 1:45pm</h2>
     <h1>Lunch in Town</h1>
     <p>
-    We learned very quickly that we couldn't match the level of great food that's in a short walking
-    distance from the conference venue. So we dropped the cold-cuts and mini-plates for an hour and
+    We learned very quickly that we couldn't match the level of great food that's within a short walking
+    distance from the conference venue, so we dropped the cold-cuts and mini-plates for an hour and
     a half block for you to head out to some place close by!
     </p>
-    <p>Luckily, we had Austin-food-writer-turned-developer <a href="http://twitter.com/rod_machen" target="blank"><strong>Rod Machen</strong></a> do the hard work in finding great places to try. Here's a list of ideas, but go as crazy as you can in
-    1.5 hours. Just don't go to the same place as everyone else! All (except where marked) are within
-    a half-mile of The Paramount and can probably get you through in time.</p>
+    <p>Luckily, we had Austin-food-writer-turned-developer <a href="http://twitter.com/rod_machen" target="blank"><strong>Rod Machen</strong></a> do the hard work of finding great places to eat. Here's a list of ideas, but go as crazy as you can in
+    1.5 hours. Just don't go to the same place as everyone else! All are within
+    a half-mile of The Paramount and can probably get you fed and on your way in time.</p>
 
     <h4 class="food-header">Foodie-rrific</h4>
     <ul class="food-group">
@@ -328,14 +328,14 @@
       </ul>
     </div>
     <p>
-      We've all seen plenty of blog posts and tweets snarkily putting down some framework or another.
-      But in reality, all the major frameworks are pretty great. They're all helping define the cutting
-      edge of rendering, or application structure, or ease-of-use. They're also all written by humans.
-      And most of the humans get along a lot better than people seem to think.
+      We've all seen plenty of blog posts and tweets snarkily putting down some framework or another,
+      but in reality, all the major frameworks are pretty great. They're all helping define the cutting
+      edge of rendering, or application structure, or ease-of-use. They're also all written by humans,
+      and most of the humans get along a lot better than people seem to think.
     </p>
     <p>This section of the talks will feature a core developer from Angular, Ember, and React, respectively.
     But rather than only talk about why their framework is great (which I'm sure they'll do), they'll also
-    focus a bit on things they've learned from eachother, and things that maybe they'd like to steal.</p>
+    focus a bit on things they've learned from each other, and things that maybe they'd like to steal.</p>
     <p>It's not a zero-sum game!</p>
   </div>
 </section>
@@ -366,7 +366,7 @@
         </li>
       </ul>
     </div>
-    <p>This group of all-star cast speakers is going to point you in the direction of the future.
+    <p>This group of all-star speakers is going to point you toward the future.
     Rushaine will kick off the section with some fresh ES6 knowledge, Mat (you may know him as "Wilto")
     is probably gonna talk about stretchy images of some kind, and Jake is going to talk about the
     future of progressive enhancement on the web.</p>
@@ -399,9 +399,9 @@
         </li>
       </ul>
     </div>
-    <p>We're going to close out the day with a set of talks that goes outside the bounds of what
+    <p>We're going to close out the day with a set of talks that go outside the bounds of what
     you'd typically expect at a front-end conference. We're big fans of expanding the way that you
-    think, and we think these speakers have some really great knowledge to drop.</p>
+    think, and these speakers have some really great knowledge to drop.</p>
     <p>Jenna is going to be talking about the similarities in processing human and computer languages,
     David's going to open your eyes with Clojurescript, and Jenn is probably going to explain arrays
     to you.</p>
@@ -418,9 +418,9 @@
     After so many brain-melting hours of Front-Ends and JavaScripts, <a href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">Homeaway</a>
     is excited to to invite you to <a href="https://goo.gl/maps/78KTt">The Rattle Inn</a> for the TXJS After Party. The Rattle
     Inn is only a few blocks away from The Paramount. We'll have some games and karaoke/DJ, and Homeaway
-    is covering the tab for the night (if that's your thing!).
+    is covering the tab for the night (if that's your thing!)
     </p>
-    <p>We won't be serving full dinner, but there are food trailers close by for your supper-y wishes.
+    <p>We won't be serving full dinner, but there are lots of restaurants and food trailers close by for your supper-y wishes.
     All ages are welcome from 7-10pm.</p>
     <p>
       <a href=http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4>
