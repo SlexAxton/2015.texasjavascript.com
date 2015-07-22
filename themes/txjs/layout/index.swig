@@ -236,8 +236,7 @@
     distance from the conference venue. So we dropped the cold-cuts and mini-plates for an hour and
     a half block for you to head out to some place close by!
     </p>
-    <p>Luckily, we had former-austin-food-blogger-turned-developer <strong>Rod Machen</strong> do the
-    hard work in finding great places to try. Here's a list of ideas, but go as crazy as you can in
+    <p>Luckily, we had Austin-food-writer-turned-developer <a href="http://twitter.com/rod_machen" target="blank"><strong>Rod Machen</strong></a> do the hard work in finding great places to try. Here's a list of ideas, but go as crazy as you can in
     1.5 hours. Just don't go to the same place as everyone else! All (except where marked) are within
     a half-mile of The Paramount and can probably get you through in time.</p>
 
