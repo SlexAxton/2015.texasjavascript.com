@@ -82,6 +82,14 @@ $sidebar-width = 220px;
   padding-right: 1rem;
 }
 
+.ribbon .day .day-week:after {
+  content: ',';
+}
+
+.ribbon .day .day-week-short {
+  display: none;
+}
+
 #header .logo {
   max-width: $sidebar-width;
   z-index: 2;
@@ -261,8 +269,14 @@ p em {
   }
 
   #header .ribbon .day:not(.active),
-  #header .ribbon .day .thing {
+  #header .ribbon .day .thing,
+  #header .ribbon .day .day-week,
+  #header .ribbon .day .day-month {
     display: none;
+  }
+
+  #header .ribbon .day .day-week-short {
+    display: block;
   }
 
   #header .ribbon .day .time,

@@ -16,9 +16,10 @@
     <nav id="menu">
       <div class="day day-1">
         <h3>
-          <span class="day-week"><span class="day-week-short">Thu</span>rsday</span>
-          <span class="day-month">July<span>
+          <span class="day-week">Thursday</span>
+          <span class="day-month">July</span>
           <span class="day-date">23</span>
+          <span class="day-week-short">Thu</span>
         </h3>
         <ul>
           <li>
@@ -43,9 +44,10 @@
       </div>
       <div class="day day-2 active">
         <h3>
-          <span class="day-week"><span class="day-week-short">Fri</span>day</span>
-          <span class="day-month">July<span>
+          <span class="day-week">Friday</span>
+          <span class="day-month">July</span>
           <span class="day-date">24</span>
+          <span class="day-week-short">Fri</span>
         </h3>
         <ul>
           <li>
@@ -133,9 +135,10 @@
       </div>
       <div class="day day-3">
         <h3>
-          <span class="day-week"><span class="day-week-short">Sat</span>urday</span>
-          <span class="day-month">July<span>
+          <span class="day-week">Saturday</span>
+          <span class="day-month">July</span>
           <span class="day-date">25</span>
+          <span class="day-week-short">Sat</span>
         </h3>
         <ul>
           <li>
