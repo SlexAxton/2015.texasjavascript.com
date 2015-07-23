@@ -24,7 +24,7 @@
           </a>
         </li>
         <li>
-          <a href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">
+          <a href="http://www.homeaway.com/info/about-us/career-opportunities">
             <img src="/pixels/sponsors/homeaway-logo.svg" alt="Homeaway" />
           </a>
         </li>

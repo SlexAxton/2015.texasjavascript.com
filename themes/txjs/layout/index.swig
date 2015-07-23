@@ -388,11 +388,11 @@
   <div id="afterparty" class="col-xs">
     <h2 class="time-header">7:00 &ndash; 10:00pm <span class="nobr">at <a href="https://goo.gl/maps/78KTt">The Rattle Inn</a></span></h2>
     <h1>The After Party</h1>
-    <a class="logo-sponsor" href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">
+    <a class="logo-sponsor" href="http://www.homeaway.com/info/about-us/career-opportunities">
       <img src="pixels/sponsors/homeaway-logo.svg" alt="Homeaway" />
     </a>
-    <h6 class="presented-by">Sponsored by <a href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">Homeaway</a></h6>
-    <p>After so many brain-melting hours of Front-Ends and JavaScripts, <a href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">Homeaway</a> is excited to to invite you to <a href="https://goo.gl/maps/78KTt">The Rattle Inn</a> for the TXJS After Party. The Rattle Inn is only a few blocks away from The Paramount. We'll have some games and karaoke/DJ, and Homeaway is covering the tab for the night (if that's your thing!)</p>
+    <h6 class="presented-by">Sponsored by <a href="http://www.homeaway.com/info/about-us/career-opportunities">Homeaway</a></h6>
+    <p>After so many brain-melting hours of Front-Ends and JavaScripts, <a href="http://www.homeaway.com/info/about-us/career-opportunities">Homeaway</a> is excited to to invite you to <a href="https://goo.gl/maps/78KTt">The Rattle Inn</a> for the TXJS After Party. The Rattle Inn is only a few blocks away from The Paramount. We'll have some games and karaoke/DJ, and Homeaway is covering the tab for the night (if that's your thing!)</p>
     <p>We won't be serving full dinner, but there are lots of restaurants and food trailers close by for your supper-y wishes. All ages are welcome from 7-10pm.</p>
   </div>
 </section>
