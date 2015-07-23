@@ -319,7 +319,7 @@
           </a>
         </li>
         <li class="col-xs-4">
-          <a href="https://twitter.com/petehunt">
+          <a href="https://twitter.com/floydophone">
             <img src="/pixels/speaker-pete.jpg" />
             <span class="speaker-label">Pete Hunt</span>
           </a>
