@@ -4,7 +4,6 @@
 
 /* Global Styles */
 body {
-  overflow: hidden;
   color: #444;
 }
 
@@ -138,12 +137,11 @@ $sidebar-width = 220px;
 }
 
 .container-article {
-  position: fixed;
-  top: 5px;
-  right: 5px;
-  bottom: 5px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
   left: 40%;
-  overflow-y: auto;
   padding-right: 16.66666%;
 }
 
@@ -218,9 +216,46 @@ p em {
 }
 
 @media only screen and (max-width: 64em) {
-  .container-article {
-    padding-right: 1rem;
+
+  body {
+    padding-left: 50px;
   }
+
+  .row {
+    margin: 0;
+  }
+
+  .container-fluid {
+    padding: 0;
+  }
+
+  .ribbon,
+  .container-article {
+    position: static;
+    width: 100%;
+  }
+
+  .container-article {
+    padding-top: 1rem;
+  }
+
+  .ribbon {
+    padding: 0;
+    z-index: 1;
+    position: relative;
+    opacity: 0;
+  }
+
+  .container-header {
+    width: 50px;
+  }
+
+  #header:after {
+    position: absolute;
+    right: auto;
+    width: 100%;
+  }
+
 }
 
 #footer {
