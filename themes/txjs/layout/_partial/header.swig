@@ -20,13 +20,19 @@
           <li>
             <a href="#otherevents">
               <span class="thing">Node Workshop</span>
-              <span class="time">9:00am</span>
+              <span class="time">
+                <strong>9:00</strong>
+                <small>am</small>
+              </span>
             </a>
           </li>
           <li>
             <a href="#craftpride">
               <span class="thing">Hangout at Craft Pride</span>
-              <span class="time">6:30pm</span>
+              <span class="time">
+                <strong>6:30</strong>
+                <small>pm</small>
+              </span>
             </a>
           </li>
         </ul>
@@ -37,55 +43,82 @@
           <li>
             <a href="#registration">
               <span class="thing">Registration &amp; Tacos</span>
-              <span class="time">8:00am</span>
+              <span class="time">
+                <strong>8:00</strong>
+                <small>am</small>
+              </span>
             </a>
           </li>
           <li>
             <a href="#welcome">
               <span class="thing">Welcome to TXJS</span>
-              <span class="time">8:50am</span>
+              <span class="time">
+                <strong>8:50</strong>
+                <small>am</small>
+              </span>
             </a>
           </li>
           <li>
             <a href="#scarystuff">
               <span class="thing">Scary Stuff</span>
-              <span class="time">9:00am</span>
+              <span class="time">
+                <strong>9:00</strong>
+                <small>am</small>
+              </span>
             </a>
           </li>
           <li>
             <a href="#uxandperf">
               <span class="thing">UX &amp; Perf</span>
-              <span class="time">10:45am</span>
+              <span class="time">
+                <strong>10:45</strong>
+                <small>am</small>
+              </span>
             </a>
           </li>
           <li>
             <a href="#lunch">
               <span class="thing">Lunch in Town</span>
-              <span class="time">12:15pm</span>
+              <span class="time">
+                <strong>12:15</strong>
+                <small>pm</small>
+              </span>
             </a>
           </li>
           <li>
             <a href="#frameworkunshootout">
               <span class="thing">Framework Unshootout</span>
-              <span class="time">1:45pm</span>
+              <span class="time">
+                <strong>1:45</strong>
+                <small>pm</small>
+              </span>
             </a>
           </li>
           <li>
             <a href="#thefuture">
               <span class="thing">The Once &amp; Future Web</span>
-              <span class="time">3:30pm</span>
+              <span class="time">
+                <strong>3:30</strong>
+                <small>pm</small>
+              </span>
             </a>
           </li>
           <li>
             <a href="#expandyourmind">
               <span class="thing">Expand Your Mind</span>
-              <span class="time">5:15pm</span>
+              <span class="time">
+                <strong>5:15</strong>
+                <small>pm</small>
+              </span>
             </a>
           </li>
           <li>
             <a href="#afterparty">
               <span class="thing">Closing Party</span>
-              <span class="time">7:00pm</span>
+              <span class="time">
+                <strong>7:00</strong>
+                <small>pm</small>
+              </span>
             </a>
           </li>
         </ul>
@@ -96,7 +129,10 @@
           <li>
             <a href="#otherevents">
               <span class="thing">Nodebots Day Austin</span>
-              <span class="time">9:00am</span>
+              <span class="time">
+                <strong>9:00</strong>
+                <small>am</small>
+              </span>
             </a>
           </li>
         </ul>

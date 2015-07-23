@@ -247,7 +247,7 @@ p em {
     right: auto;
   }
 
-  .ribbon {
+  #header .ribbon {
     position: relative;
     width: 100%;
     top: 4rem;
@@ -255,14 +255,23 @@ p em {
     z-index: 1;
   }
 
-  .ribbon .day:not(.active),
-  .ribbon .day .thing,
-  .ribbon .day h3 {
+  #header .ribbon .day:not(.active),
+  #header .ribbon .day .thing,
+  #header .ribbon .day h3 {
     display: none;
   }
 
-  .ribbon a {
+  #header .ribbon .day .time,
+  #header .ribbon .day .time strong,
+  #header .ribbon .day .time small {
+    float: left;
+    clear: both;
+    line-height: 1;
+  }
+
+  #header .ribbon a {
     padding: .75rem 0;
+    overflow: hidden;
   }
 
 }
