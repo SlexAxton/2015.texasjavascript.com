@@ -32,8 +32,8 @@
     <p>If you plan on drinking at the TXJS After Party, we'd strongly suggest that you use public transportation, cabs, or ride-sharing services to get to the Paramount in the morning so you have a safe way to get home without leaving a car behind.</p>
     <p>We don't have any official relationships with a parking lot, but there are two public lots close by:<br /><a href="https://goo.gl/maps/wbxuQ">St. Davids Public Parking</a> and <a href="https://goo.gl/maps/d26yG">801 Trinity Public Parking</a>.</p>
     <h3 class="innerheader">Diversity Scholarships</h3>
+    <a class="logo-sponsor" href="http://www.retailmenot.com/corp/careers/"><img src="pixels/sponsors/rmn-dark.png" alt="RetailMeNot" /></a>
     <p>The window for Diversity Scholarships has ended, but we'd like to thank <a href="http://www.retailmenot.com/corp/careers/">RetailMeNot</a> for sponsoring fully paid scholarships for TXJS. We're so lucky to have such great local sponsors.</p>
-    <p><a href="http://www.retailmenot.com/corp/careers/"><img src="pixels/sponsors/rmn-dark.png" style="padding-top:30px;" width=300 alt="RetailMeNot" /></a></p>
   </div>
 </section>
 
