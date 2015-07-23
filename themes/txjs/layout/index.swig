@@ -81,16 +81,9 @@
   <div id="hallwaytrack" class="col-xs">
     <h2 class="time-header">All Day</h2>
     <h1>The Hallway Track</h1>
+    <a class="logo-sponsor" href="https://ustudio.com/solutions#video-platform-apis-0"><img src="pixels/sponsors/sponsor-ustudio.svg" alt="ustudio" /></a>
     <h6 class="presented-by">Drinks and refreshments sponsored by <a href="https://ustudio.com/solutions#video-platform-apis-0">uStudio</a></h6>
-    <p>We've jam packed the day with talks. We'll have a 15-minute break between each of the groups
-      of talks, but you're also free to hang out in the front of The Paramount at any time during
-      the conference. Thanks to <a href="https://ustudio.com/solutions#video-platform-apis-0">uStudio</a>, if you
-      get thirsty or edgy at any point during the day, you can grab some quick refreshments just outside
-      of the theatre!
-    </p>
-    <p>
-      <a href="https://ustudio.com/solutions#video-platform-apis-0"><img src="pixels/sponsors/sponsor-ustudio.svg" style="padding:20px 0;" width="300" alt="ustudio" /></a>
-    </p>
+    <p>We've jam packed the day with talks. We'll have a 15-minute break between each of the groups of talks, but you're also free to hang out in the front of The Paramount at any time during the conference. Thanks to <a href="https://ustudio.com/solutions#video-platform-apis-0">uStudio</a>, if you get thirsty or edgy at any point during the day, you can grab some quick refreshments just outside of the theatre!</p>
   </div>
 </section>
 
