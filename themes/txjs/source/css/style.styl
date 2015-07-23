@@ -265,10 +265,25 @@ p em {
   padding-bottom: 50%;
 }
 
-.sponsors li img {
+.sponsors li a img {
+  display: block;
+  margin: 0 auto;
   max-width: 100%;
+  max-height: 7rem;
+  object-fit: cover;
+  opacity: .75;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
+}
+
+.sponsors li.sponsors-bocoup a img {
+  max-height: 5rem;
+}
+
+.sponsors li a:hover img {
+  opacity: 1;
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
 }
 
 @media only screen and (max-width: 64em) {
