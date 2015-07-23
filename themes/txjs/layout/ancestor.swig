@@ -29,11 +29,30 @@
 
 {% block scripts %}
 <script>
-  if (false && 'serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js', {scope: '/'}).catch(function(error) {
-      console.error('Couldn\'t register service worker.');
-      throw error;
-    });
+  function sendMessage(message) {
+    if (navigator.serviceWorker.controller) {
+      navigator.serviceWorker.controller.postMessage(message);
+    }
+    else {
+      console.log('Cant postmessage, probably a hard refresh.');
+    }
+  }
+
+  window.addEventListener('message', function(event) {
+    if (event.data === 'PAGEUPDATEDYO') {
+      location.reload();
+    }
+  });
+
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js')
+      .then(navigator.serviceWorker.ready)
+      .then(function(){
+        sendMessage('OKIMREADYFORTHIS');
+      }).catch(function(error) {
+        console.error('Couldn\'t register service worker.');
+        throw error;
+      });
   }
 
   (function(
