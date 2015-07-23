@@ -55,6 +55,111 @@
       });
   }
 
+  function setMenuTimes(isFirstRun) {
+    var currentTime = new Date();
+
+    if (
+      currentTime.getMonth() === 6 &&
+      currentTime.getDate() === 23
+    ) {
+      document.getElementById('the23rd').classList.add('active');
+      return;
+    }
+    if (
+      currentTime.getMonth() === 6 &&
+      currentTime.getDate() === 25
+    ) {
+      document.getElementById('the25th').classList.add('active');
+      return;
+    }
+
+    // Otherwise set the date to the 24th, regardless
+    var the24thElem = document.getElementById('the24th');
+    the24thElem.classList.add('active');
+
+    if (
+      currentTime.getMonth() !== 6 ||
+      currentTime.getDate() !== 24 ||
+      currentTime.getFullYear() !== 2015
+    ) {
+      // If it's not the day, don't worry about the timer
+      return;
+    }
+
+    window.isThe24th = true;
+
+    var times = [{
+      label: 'registration',
+      offset: 0, // July 24, 8am CT
+    },{
+      label: 'welcome',
+      offset: 45, // July 24, 8:45am CT
+    },{
+      label: 'scarystuff',
+      offset: 55, // July 24, 8:55am CT
+    },{
+      label: 'uxandperf',
+      offset: 155, // July 24, 10:35am CT
+    },{
+      label: 'lunch',
+      offset: 245, // July 24, 12:05pm CT
+    },{
+      label: 'frameworkunshootout',
+      offset: 335, // July 24, 1:35pm CT
+    },{
+      label: 'thefuture',
+      offset: 440, // July 24, 3:20pm CT
+    },{
+      label: 'expandyourmind',
+      offset: 545, // July 24, 5:05pm CT
+    },{
+      label: 'afterparty',
+      offset: 635, // July 24, 6:35pm CT
+    },/*lolhacks*/{
+      label: 'afterparty',
+      offset: 636, // July 24, 6:35pm CT
+    },{
+      label: 'afterparty',
+      offset: 637, // July 24, 6:35pm CT
+    }];
+
+    var timesStart = new Date(Date.UTC(2015, 6, 24, 13, 0));
+    var currentOffset = currentTime.getTime() - timesStart.getTime();
+
+    var selectedTime = times[0];
+
+    // bail if it's too early
+    if (currentOffset > 0) {
+      for (var i = 0; i < times.length; i++) {
+        if ((selectedTime.offset*60*1000) > currentOffset) {
+          selectedTime = times[i-2];
+          break;
+        }
+        selectedTime = times[i];
+      }
+    }
+
+    // Add the active class to the li element
+    var activeLinkElem = the24thElem
+      .querySelector('[href="#'+selectedTime.label+'"]');
+
+    activeLinkElem.parentNode.classList.add('active');
+
+    if (isFirstRun) {
+      activeLinkElem.click();
+    }
+  }
+
+  setMenuTimes(true);
+
+  if (window.isThe24th) {
+    setInterval(function() {
+      var currentActive = document.querySelector('#the24th .active');
+      currentActive && currentActive.classList.remove('active');
+      setMenuTimes();
+    },1000*6);
+  }
+
   (function(
     o,m,g, t,x,j,s
   ){o['GoogleAnalyticsObject']=x;o[x]=o[x]||function(){

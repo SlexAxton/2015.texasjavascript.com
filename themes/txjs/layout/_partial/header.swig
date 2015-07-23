@@ -1,4 +1,5 @@
 <header id="header">
+  <a href="/">
   <svg class="logo" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg">
     <g>
       <path style="fill:transparent;" d="M130.2,0v130.2H0V0H130.2"/>
@@ -9,12 +10,13 @@
       <path style="fill:#E2273A;" d="M60.4,42l22.2,22.2c3.5-4.6,9.4-7.4,16.6-7.4c9,0,15.2,3.5,19.4,11l1.2,2.1l-13.7,8.8l-1.3-2.3c-1.8-3.3-3.4-3.9-5.6-3.9c-2,0-3.3,1-3.3,2.7c0,1.8,0.5,2.7,5.9,5.1l3,1.3c10.9,4.7,17.6,9.9,17.6,21.4c0,0.4,0,0.8-0.1,1.3l7.8,7.8V0h-27.8L60.4,42z"/>
     </g>
   </svg>
+  </a>
   <div class="ribbon">
     <h1 class="title">
       <a href="{{ config.root }}">{{ config.title }}</a>
     </h1>
     <nav id="menu">
-      <div class="day day-1">
+      <div id="the23rd" class="day day-1">
         <h3>
           <span class="day-week">Thursday</span>
           <span class="day-month">July</span>
@@ -42,7 +44,7 @@
           </li>
         </ul>
       </div>
-      <div class="day day-2 active">
+      <div id="the24th" class="day day-2">
         <h3>
           <span class="day-week">Friday</span>
           <span class="day-month">July</span>
@@ -68,7 +70,7 @@
               </span>
             </a>
           </li>
-          <li class="active">
+          <li>
             <a href="#scarystuff">
               <span class="thing">Scary Stuff</span>
               <span class="time">
@@ -133,7 +135,7 @@
           </li>
         </ul>
       </div>
-      <div class="day day-3">
+      <div id="the25th" class="day day-3">
         <h3>
           <span class="day-week">Saturday</span>
           <span class="day-month">July</span>
