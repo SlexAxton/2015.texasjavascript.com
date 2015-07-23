@@ -212,6 +212,9 @@ self.addEventListener('fetch', function(event) {
     return;
   }
   var url = event.request.url;
+  if (url.indexOf('data:') > -1) {
+    return;
+  }
   event.respondWith(
     caches.open(CURRENT_CACHES['read-through']).then(function(cache) {
       return cache.match(event.request).then(function(response) {
@@ -222,7 +225,12 @@ self.addEventListener('fetch', function(event) {
         }
 
         // Bust images with the cache - don't always refetch.
-        if (immediateResult && (url.indexOf('.jpg') > -1 || url.indexOf('.svg') > -1 || url.indexOf('.png') > -1 || url.indexOf('.ico') > -1)) {
+        if (immediateResult && (
+          url.indexOf('.jpg') > -1 ||
+          url.indexOf('.svg') > -1 ||
+          url.indexOf('.png') > -1 ||
+          url.indexOf('.ico') > -1
+        )) {
           // console.log('avoiding redownloading image', url);
           return immediateResult;
         }
