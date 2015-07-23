@@ -40,10 +40,10 @@
 
 <section class="row small-bottom">
   <div id="craftpride" class="col-xs">
-    <h2 class="time-header">6:30pm - 9:30pm at <a href="https://goo.gl/maps/DkGe4">Craft Pride</a></h2>
-    <h1 class="section-header--sponsored">Thursday Night <br><em>Gathering</em></h1>
-    <a class="logo-sponsor" href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html"><img src="pixels/sponsors/bv.png" alt="Bazaarvoice" /></a>
+    <h2 class="time-header">6:30pm &ndash; 9:30pm at <a href="https://goo.gl/maps/DkGe4">Craft Pride</a></h2>
+    <h1 class="section-header--sponsored">Thursday Night Gathering</h1>
     <h6 class="presented-by">Sponsored by <a href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html">Bazaarvoice</a></h6>
+    <a class="logo-sponsor" href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html"><img src="pixels/sponsors/bv.png" alt="Bazaarvoice" /></a>
   </div>
 </section>
 
