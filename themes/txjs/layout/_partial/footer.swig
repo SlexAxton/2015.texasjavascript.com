@@ -8,11 +8,11 @@
             <img src="/pixels/sponsors/bocoup-450.png" alt="Bocoup" />
           </a>
         </li>
-        <li>
+        <!-- li>
           <a href="http://roost.bocoup.com/">
             <img src="/pixels/sponsors/roost.png?2" alt="Roost JavaScript Training" />
           </a>
-        </li>
+        </li -->
         <li>
           <a href="https://www.spredfast.com/about-us/careers/">
             <img src="/pixels/sponsors/spredfast-logo-2.svg" alt="Spredfast" />
