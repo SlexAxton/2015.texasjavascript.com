@@ -11,7 +11,7 @@
  limitations under the License.
 */
 
-var CACHE_VERSION = 25;
+var CACHE_VERSION = 32;
 var CURRENT_CACHES = {
   'read-through': 'read-through-cache-v' + CACHE_VERSION
 };

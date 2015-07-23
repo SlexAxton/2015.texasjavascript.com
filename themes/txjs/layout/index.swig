@@ -28,7 +28,7 @@
     <h3 class="innerheader">Code of Conduct</h3>
     <p>We have a <a href="/code-of-conduct/">Code of Conduct</a> that applies to all attendees, speakers, and staff members. Please read it. TXJS is fun, and we expect you'll have a lot of fun, but please remember that it's primarily a professional conference.</p>
     <p>If you need to report any behavior that you believe to be in violation of the TXJS Code of Conduct, you can immediately find a person in a TXJS shirt (will be shown at the start of the day). You can also DM the <a href="https://twitter.com/txjs">@txjs</a> account on twitter.</p>
-    <h3 class="innerheader">Parking</h3>
+    <h3 id="parking" class="innerheader">Parking</h3>
     <p>If you plan on drinking at the TXJS After Party, we'd strongly suggest that you use public transportation, cabs, or ride-sharing services to get to the Paramount in the morning so you have a safe way to get home without leaving a car behind.</p>
     <p>We don't have any official relationships with a parking lot, but there are two public lots close by:<br /><a href="https://goo.gl/maps/wbxuQ">St. Davids Public Parking</a> and <a href="https://goo.gl/maps/d26yG">801 Trinity Public Parking</a>.</p>
     <h3 class="innerheader">Diversity Scholarships</h3>
