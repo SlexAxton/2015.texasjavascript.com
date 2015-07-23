@@ -68,7 +68,7 @@
               </span>
             </a>
           </li>
-          <li>
+          <li class="active">
             <a href="#scarystuff">
               <span class="thing">Scary Stuff</span>
               <span class="time">

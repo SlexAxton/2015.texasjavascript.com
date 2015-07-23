@@ -224,9 +224,27 @@ p em {
   margin-bottom: 10rem;
 }
 
-#menu a {
-  color: #fff;
+#menu li a {
+  color: #FFF;
   display: block;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+#menu li a:hover {
+  background-color: rgba(255,255,255,.25);
+}
+
+#menu li.active a,
+#menu li.active a:hover {
+  cursor: default;
+  background-color: #E2273A;
+}
+
+#menu li a:hover .time,
+#menu li.active a .time,
+#menu li.active a:hover .time {
+  opacity: 1;
 }
 
 @media only screen and (max-width: 64em) {
@@ -282,10 +300,6 @@ p em {
     line-height: 1;
     display: block;
     text-align: center;
-  }
-
-  #header .ribbon .day .day-week-short {
-
   }
 
   #header .ribbon .day .day-date {
