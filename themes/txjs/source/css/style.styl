@@ -52,7 +52,7 @@ h1 em {
 
 /* Core Layout */
 
-$sidebar-width = 240px;
+$sidebar-width = 220px;
 
 .row {
   margin-bottom: 2.5rem;
@@ -78,7 +78,7 @@ $sidebar-width = 240px;
   bottom: 5px;
   z-index: 1;
   /* ribbon offset */
-  padding-left: calc(40% - 220px - 5px - 1.5rem);
+  padding-left: calc(40% - 220px - 5px - .25rem);
   padding-right: 0;
 }
 
@@ -113,7 +113,7 @@ $sidebar-width = 240px;
   right: 60%;
   bottom: 0;
   /* ribbon offset */
-  width: calc(220px + 2rem + 10px);
+  width: calc(220px + 2rem);
 }
 
 #header h3 {
@@ -225,7 +225,7 @@ p em {
 }
 
 #menu .day {
-  margin: 0 0.5rem;
+  margin-right: 0.5rem;
 }
 
 #menu li a {
@@ -290,6 +290,10 @@ p em {
     top: 4rem;
     padding: 0;
     z-index: 1;
+  }
+
+  #header .ribbon .day {
+    margin: 0;
   }
 
   #header .ribbon .day:not(.active),
