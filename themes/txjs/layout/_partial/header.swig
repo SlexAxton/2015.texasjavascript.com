@@ -15,7 +15,11 @@
     </h1>
     <nav id="menu">
       <div class="day day-1">
-        <h3>Thursday, July 23</h3>
+        <h3>
+          <span class="day-week"><span class="day-week-short">Thu</span>rsday</span>
+          <span class="day-month">July<span>
+          <span class="day-date">23</span>
+        </h3>
         <ul>
           <li>
             <a href="#otherevents">
@@ -38,7 +42,11 @@
         </ul>
       </div>
       <div class="day day-2 active">
-        <h3>Friday, July 24</h3>
+        <h3>
+          <span class="day-week"><span class="day-week-short">Fri</span>day</span>
+          <span class="day-month">July<span>
+          <span class="day-date">24</span>
+        </h3>
         <ul>
           <li>
             <a href="#registration">
@@ -124,7 +132,11 @@
         </ul>
       </div>
       <div class="day day-3">
-        <h3>Saturday, July 25</h3>
+        <h3>
+          <span class="day-week"><span class="day-week-short">Sat</span>urday</span>
+          <span class="day-month">July<span>
+          <span class="day-date">25</span>
+        </h3>
         <ul>
           <li>
             <a href="#otherevents">
