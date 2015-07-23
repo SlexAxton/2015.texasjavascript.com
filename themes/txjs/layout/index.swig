@@ -97,19 +97,28 @@
         <li class="col-xs-4">
           <a href="https://twitter.com/simon_swain">
             <img src="/pixels/speaker-simon.jpg" />
-            <span class="speaker-label">Simon Swain</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Simon</span>
+              <span class="speaker-label-last">Swain</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/bcrypt">
             <img src="/pixels/speaker-yan.jpg" />
-            <span class="speaker-label">Yan Zhu</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Yan</span>
+              <span class="speaker-label-last">Zhu</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/jedschmidt">
             <img src="/pixels/speaker-jed.jpg" />
-            <span class="speaker-label">Jed Schmidt</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Jed</span>
+              <span class="speaker-label-last">Schmidt</span>
+            </span>
           </a>
         </li>
       </ul>
@@ -132,19 +141,28 @@
         <li class="col-xs-4">
           <a href="https://twitter.com/hazelcough">
             <img src="/pixels/speaker-michelle.jpg" />
-            <span class="speaker-label">Michelle Bu</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Michelle</span>
+              <span class="speaker-label-last">Bu</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/andydavies">
             <img src="/pixels/speaker-andy.jpg" />
-            <span class="speaker-label">Andy Davies</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Andy</span>
+              <span class="speaker-label-last">Davies</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/alicebartlett">
             <img src="/pixels/speaker-alice.jpg" />
-            <span class="speaker-label">Alice Bartlett</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Alice</span>
+              <span class="speaker-label-last">Bartlett</span>
+            </span>
           </a>
         </li>
 
@@ -240,19 +258,28 @@
         <li class="col-xs-4">
           <a href="https://twitter.com/briantford">
             <img src="/pixels/speaker-brian.jpg" />
-            <span class="speaker-label">Brian Ford</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Brian</span>
+              <span class="speaker-label-last">Ford</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/tomdale">
             <img src="/pixels/speaker-tom.jpg" />
-            <span class="speaker-label">Tom Dale</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Tom</span>
+              <span class="speaker-label-last">Dale</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/floydophone">
             <img src="/pixels/speaker-pete.jpg" />
-            <span class="speaker-label">Pete Hunt</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Pete</span>
+              <span class="speaker-label-last">Hunt</span>
+            </span>
           </a>
         </li>
 
@@ -280,19 +307,28 @@
         <li class="col-xs-4">
           <a href="https://twitter.com/copasetickid">
             <img src="/pixels/speaker-rushaine.jpg" />
-            <span class="speaker-label">Rushaine McBean</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Rushaine</span>
+              <span class="speaker-label-last">McBean</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/wilto">
             <img src="/pixels/speaker-mat.jpg" />
-            <span class="speaker-label">Mat Marquis</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Mat</span>
+              <span class="speaker-label-last">Marquis</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/jaffathecake">
             <img src="/pixels/speaker-jake.jpg" />
-            <span class="speaker-label">Jake Archibald</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Jake</span>
+              <span class="speaker-label-last">Archibald</span>
+            </span>
           </a>
         </li>
       </ul>
@@ -313,19 +349,28 @@
         <li class="col-xs-4">
           <a href="https://twitter.com/zeigenvector">
             <img src="/pixels/speaker-jenna.jpg" />
-            <span class="speaker-label">Jenna Zeigen</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Jenna</span>
+              <span class="speaker-label-last">Zeigen</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/swannodette">
             <img src="/pixels/speaker-david.jpg" />
-            <span class="speaker-label">David Nolen</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">David</span>
+              <span class="speaker-label-last">Nolen</span>
+            </span>
           </a>
         </li>
         <li class="col-xs-4">
           <a href="https://twitter.com/jennschiffer">
             <img src="/pixels/speaker-jenn.jpg" />
-            <span class="speaker-label">Jenn Schiffer</span>
+            <span class="speaker-label">
+              <span class="speaker-label-first">Jenn</span>
+              <span class="speaker-label-last">Schiffer</span>
+            </span>
           </a>
         </li>
       </ul>
