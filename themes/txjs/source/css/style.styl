@@ -240,6 +240,7 @@ p em {
 
 #menu li.alt a .time {
   background-color: rgba(255,255,255,.15);
+  opacity: .75;
 }
 
 #menu li a:hover {
@@ -256,6 +257,10 @@ p em {
 #menu li.active a .time,
 #menu li.active a:hover .time {
   opacity: 1;
+}
+
+#menu li.alt.active a .time {
+  background-color: transparent;
 }
 
 .sponsors li {
@@ -366,8 +371,11 @@ p em {
   }
 
   #header .ribbon a {
-    padding: .75rem 0;
     overflow: hidden;
+  }
+
+  #header .ribbon a .time {
+    padding: .75rem 0;
   }
 
   .sponsors li.sponsors-bocoup a img {
