@@ -11,7 +11,7 @@
   </div>
 </section>
 
-<section class="row small-bottom big-space">
+<section class="row row-title">
   <div class="col-xs">
     <h1 id="tickets" class="section-header--sponsored">Texas Javascript Conference <em>TXJS</em></h1>
     <a href=http://www.bocoup.com/></a>
