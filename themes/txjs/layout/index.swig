@@ -22,41 +22,18 @@
 <section class="row">
   <div class="col-xs">
     <h3 class="innerheader">Can I still get tickets?</h3>
-    <p>
-      <em>Sorry!</em> Tickets to the conference are <strong>sold out</strong> and <strong>won't</strong>
-      be available for purchase on the day of the conference.
-    </p>
-
+    <p><em>Sorry!</em> Tickets to the conference are <strong>sold out</strong> and <strong>won't</strong> be available for purchase on the day of the conference.</p>
     <h3 id="otherevents" class="innerheader">Node Workshop &amp; NodeBots Day</h3>
-    <p>
-      There are still tickets available for the <a href="https://bocoup.com/weblog/txjs-node-workshop/">Node Workshop</a> and
-      the <a href="http://austinnodebots.com/">NodeBots Day</a> events. However, these do not provide access to
-      TXJS.
-    </p>
-
+    <p>There are still tickets available for the <a href="https://bocoup.com/weblog/txjs-node-workshop/">Node Workshop</a> and the <a href="http://austinnodebots.com/">NodeBots Day</a> events. However, these do not provide access to TXJS.</p>
     <h3 class="innerheader">Code of Conduct</h3>
-    <p>We have a <a href="/code-of-conduct/">Code of Conduct</a> that applies to all attendees, speakers, and staff members.
-    Please read it. TXJS is fun, and we expect you'll have a lot of fun, but please remember that it's primarily a professional
-    conference.</p>
-    <p>If you need to report any behavior that you believe to be in violation of the TXJS Code of Conduct, you can immediately
-    find a person in a TXJS shirt (will be shown at the start of the day). You can also DM the
-    <a href="https://twitter.com/txjs">@txjs</a> account on twitter.</p>
-
+    <p>We have a <a href="/code-of-conduct/">Code of Conduct</a> that applies to all attendees, speakers, and staff members. Please read it. TXJS is fun, and we expect you'll have a lot of fun, but please remember that it's primarily a professional conference.</p>
+    <p>If you need to report any behavior that you believe to be in violation of the TXJS Code of Conduct, you can immediately find a person in a TXJS shirt (will be shown at the start of the day). You can also DM the <a href="https://twitter.com/txjs">@txjs</a> account on twitter.</p>
     <h3 class="innerheader">Parking</h3>
-    <p>If you plan on drinking at the TXJS After Party, we'd strongly suggest that you use public transportation, cabs,
-    or ride-sharing services to get to the Paramount in the morning so you have a safe way to get home without leaving
-    a car behind.</p>
-    <p>We don't have any official relationships with a parking lot, but there are two public lots close by</p>
-    <p><a href="https://goo.gl/maps/wbxuQ">St. Davids Public Parking</a> and
-    <a href="https://goo.gl/maps/d26yG">801 Trinity Public Parking</a>.</p>
-
+    <p>If you plan on drinking at the TXJS After Party, we'd strongly suggest that you use public transportation, cabs, or ride-sharing services to get to the Paramount in the morning so you have a safe way to get home without leaving a car behind.</p>
+    <p>We don't have any official relationships with a parking lot, but there are two public lots close by:<br /><a href="https://goo.gl/maps/wbxuQ">St. Davids Public Parking</a> and <a href="https://goo.gl/maps/d26yG">801 Trinity Public Parking</a>.</p>
     <h3 class="innerheader">Diversity Scholarships</h3>
-    <p>The window for Diversity Scholarships has ended, but we'd like to thank
-    <a href="http://www.retailmenot.com/corp/careers/">RetailMeNot</a> for sponsoring fully paid scholarships
-    for TXJS. We're so lucky to have such great local sponsors.</p>
-    <p>
-      <a href="http://www.retailmenot.com/corp/careers/"><img src="pixels/sponsors/rmn-dark.png" style="padding-top:30px;" width=300 alt="RetailMeNot" /></a>
-    </p>
+    <p>The window for Diversity Scholarships has ended, but we'd like to thank <a href="http://www.retailmenot.com/corp/careers/">RetailMeNot</a> for sponsoring fully paid scholarships for TXJS. We're so lucky to have such great local sponsors.</p>
+    <p><a href="http://www.retailmenot.com/corp/careers/"><img src="pixels/sponsors/rmn-dark.png" style="padding-top:30px;" width=300 alt="RetailMeNot" /></a></p>
   </div>
 </section>
 
