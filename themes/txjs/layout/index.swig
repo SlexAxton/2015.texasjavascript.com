@@ -37,7 +37,6 @@
   </div>
 </section>
 
-
 <section class="row small-bottom">
   <div id="craftpride" class="col-xs">
     <h2 class="time-header">6:30pm &ndash; 9:30pm at <a href="https://goo.gl/maps/DkGe4">Craft Pride</a></h2>
@@ -56,7 +55,7 @@
 
 <section class="row">
   <div id="registration" class="col-xs">
-    <h2 class="time-header">8:00 - 8:50am</h2>
+    <h2 class="time-header">8:00 &ndash; 8:50am</h2>
     <h1>Registration</h1>
     <h6 class="presented-by">With Tacodeli Breakfast Tacos sponsored by <a href="http://www.spiceworks.com/jobs/">Spiceworks</a></h6>
     <p>If you didn't get registered at Craft Pride on Thursday, you'll want to make sure you show
@@ -72,7 +71,7 @@
 
 <section class="row">
   <div id="welcome" class="col-xs">
-    <h2 class="time-header">8:50 - 9:00am</h2>
+    <h2 class="time-header">8:50 &ndash; 9:00am</h2>
     <h1>Welcome to TXJS</h1>
     <h6 class="presented-by">Fast &amp; Reliable WiFi sponsored by <a href="https://www.spredfast.com/about-us/careers/">Spredfast</a></h6>
     <p>We'll start our day pretty early, but it'll be worth it because we've got a giant list of
@@ -115,7 +114,7 @@
 
 <section class="row">
   <div id="scarystuff" class="col-xs">
-    <h2 class="time-header">9:00 - 10:30am</h2>
+    <h2 class="time-header">9:00 &ndash; 10:30am</h2>
     <h1>Talks: The Scary Stuff</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
@@ -150,7 +149,7 @@
 
 <section class="row">
   <div id="uxandperf" class="col-xs">
-    <h2 class="time-header">10:45am - 12:15pm</h2>
+    <h2 class="time-header">10:45am &ndash; 12:15pm</h2>
     <h1>Talks: UX &amp; Performance</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
@@ -185,7 +184,7 @@
 
 <section class="row">
   <div id="lunch" class="col-xs">
-    <h2 class="time-header">12:15 - 1:45pm</h2>
+    <h2 class="time-header">12:15 &ndash; 1:45pm</h2>
     <h1>Lunch in Town</h1>
     <p>
     We learned very quickly that we couldn't match the level of great food that's within a short walking
@@ -258,7 +257,7 @@
 
 <section class="row">
   <div id="frameworkunshootout" class="col-xs">
-    <h2 class="time-header">1:45 - 3:15pm</h2>
+    <h2 class="time-header">1:45 &ndash; 3:15pm</h2>
     <h1>Talks: Framework Unshootout</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
@@ -298,7 +297,7 @@
 
 <section class="row">
   <div id="thefuture" class="col-xs">
-    <h2 class="time-header">3:30 - 5:00pm</h2>
+    <h2 class="time-header">3:30 &ndash; 5:00pm</h2>
     <h1>Talks: The Once &amp; Future Web</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
@@ -331,7 +330,7 @@
 
 <section class="row">
   <div id="expandyourmind" class="col-xs">
-    <h2 class="time-header">5:15 - 6:45pm</h2>
+    <h2 class="time-header">5:15 &ndash; 6:45pm</h2>
     <h1>Talks: Expand Your Mind</h1>
     <div class="speaker-box">
       <ul class="row speaker-list">
@@ -366,7 +365,7 @@
 
 <section class="row">
   <div id="afterparty" class="col-xs">
-    <h2 class="time-header">7:00 - 10:00pm</h2>
+    <h2 class="time-header">7:00 &ndash; 10:00pm</h2>
     <h1>The After Party at <br><a href="https://goo.gl/maps/78KTt">The Rattle Inn</a></h1>
     <h6 class="presented-by">Sponsored by <a href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">Homeaway</a></h6>
 
