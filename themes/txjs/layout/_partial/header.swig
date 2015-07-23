@@ -14,29 +14,93 @@
       <a href="{{ config.root }}">{{ config.title }}</a>
     </h1>
     <nav id="menu">
-      <h3>Thursday, July 23</h3>
-      <ul>
-        <li><a href="#otherevents">Node Workshop <span class="time">9:00am</span></a></li>
-        <li><a href="#craftpride">Hangout at Craft Pride <span class="time">6:30pm</span></a></li>
-      </ul>
-
-      <h3>Friday, July 24</h3>
-      <ul>
-        <li><a href="#registration">Registration &amp; Tacos <span class="time">8:00am</span></a></li>
-        <li><a href="#welcome">Welcome to TXJS <span class="time">8:50am</span></a></li>
-        <li><a href="#scarystuff">Scary Stuff <span class="time">9:00am</span></a></li>
-        <li><a href="#uxandperf">UX &amp; Perf <span class="time">10:45am</span></a></li>
-        <li><a href="#lunch">Lunch in Town <span class="time">12:15pm</span></a></li>
-        <li><a href="#frameworkunshootout">Framework Unshootout <span class="time">1:45pm</span></a></li>
-        <li><a href="#thefuture">The Once &amp; Future Web <span class="time">3:30pm</span></a></li>
-        <li><a href="#expandyourmind">Expand Your Mind <span class="time">5:15pm</span></a></li>
-        <li><a href="#afterparty">Closing Party <span class="time">7:00pm</span></a></li>
-      </ul>
-
-      <h3>Saturday, July 25</h3>
-      <ul>
-        <li><a href="#otherevents">Nodebots Day Austin <span class="time">9:00am</span></a></li>
-      </ul>
+      <div class="day day-1">
+        <h3>Thursday, July 23</h3>
+        <ul>
+          <li>
+            <a href="#otherevents">
+              <span class="thing">Node Workshop</span>
+              <span class="time">9:00am</span>
+            </a>
+          </li>
+          <li>
+            <a href="#craftpride">
+              <span class="thing">Hangout at Craft Pride</span>
+              <span class="time">6:30pm</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="day day-2 active">
+        <h3>Friday, July 24</h3>
+        <ul>
+          <li>
+            <a href="#registration">
+              <span class="thing">Registration &amp; Tacos</span>
+              <span class="time">8:00am</span>
+            </a>
+          </li>
+          <li>
+            <a href="#welcome">
+              <span class="thing">Welcome to TXJS</span>
+              <span class="time">8:50am</span>
+            </a>
+          </li>
+          <li>
+            <a href="#scarystuff">
+              <span class="thing">Scary Stuff</span>
+              <span class="time">9:00am</span>
+            </a>
+          </li>
+          <li>
+            <a href="#uxandperf">
+              <span class="thing">UX &amp; Perf</span>
+              <span class="time">10:45am</span>
+            </a>
+          </li>
+          <li>
+            <a href="#lunch">
+              <span class="thing">Lunch in Town</span>
+              <span class="time">12:15pm</span>
+            </a>
+          </li>
+          <li>
+            <a href="#frameworkunshootout">
+              <span class="thing">Framework Unshootout</span>
+              <span class="time">1:45pm</span>
+            </a>
+          </li>
+          <li>
+            <a href="#thefuture">
+              <span class="thing">The Once &amp; Future Web</span>
+              <span class="time">3:30pm</span>
+            </a>
+          </li>
+          <li>
+            <a href="#expandyourmind">
+              <span class="thing">Expand Your Mind</span>
+              <span class="time">5:15pm</span>
+            </a>
+          </li>
+          <li>
+            <a href="#afterparty">
+              <span class="thing">Closing Party</span>
+              <span class="time">7:00pm</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="day day-3">
+        <h3>Saturday, July 25</h3>
+        <ul>
+          <li>
+            <a href="#otherevents">
+              <span class="thing">Nodebots Day Austin</span>
+              <span class="time">9:00am</span>
+            </a>
+          </li>
+        </ul>
+      </div>
     </nav>
   </div>
 </header>
