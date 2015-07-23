@@ -39,9 +39,10 @@
 
 <section class="row small-bottom">
   <div id="craftpride" class="col-xs">
-    <h2 class="time-header">6:30pm &ndash; 9:30pm at <a href="https://goo.gl/maps/DkGe4">Craft Pride</a></h2>
+    <h2 class="time-header">6:30pm &ndash; 9:30pm <span class="nobr">at <a href="https://goo.gl/maps/DkGe4">Craft Pride</a></span></h2>
     <h1 class="section-header--sponsored">Thursday Night Gathering</h1>
     <a class="logo-sponsor" href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html"><img src="pixels/sponsors/bv.png" alt="Bazaarvoice" /></a>
+    <h6 class="presented-by">Sponsored by <a href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html">Bazaarvoice</a></h6>
   </div>
 </section>
 
@@ -340,8 +341,8 @@
 
 <section class="row">
   <div id="afterparty" class="col-xs">
-    <h2 class="time-header">7:00 &ndash; 10:00pm</h2>
-    <h1>The After Party at <br><a href="https://goo.gl/maps/78KTt">The Rattle Inn</a></h1>
+    <h2 class="time-header">7:00 &ndash; 10:00pm <span class="nobr">at <a href="https://goo.gl/maps/78KTt">The Rattle Inn</a></span></h2>
+    <h1>The After Party</h1>
     <a class="logo-sponsor" href="http://www.homeaway.com/search/refined/texas/austin/region:7116/keywords:Austin+TX/Location+Type:downtown/Online+Booking:Book+Online/Payment:Online+Payments/arrival:2015-07-22/departure:2015-07-25/minSleeps/1/maxSleeps/4">
       <img src="pixels/sponsors/homeaway-logo.svg" alt="Homeaway" />
     </a>
