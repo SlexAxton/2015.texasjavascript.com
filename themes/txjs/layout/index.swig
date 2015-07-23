@@ -57,15 +57,10 @@
   <div id="registration" class="col-xs">
     <h2 class="time-header">8:00 &ndash; 8:50am</h2>
     <h1>Registration</h1>
+    <a class="logo-sponsor" href="http://www.spiceworks.com/jobs/"><img src="pixels/sponsors/spiceworks-logo.svg" alt="Spiceworks" /></a>
     <h6 class="presented-by">With Tacodeli Breakfast Tacos sponsored by <a href="http://www.spiceworks.com/jobs/">Spiceworks</a></h6>
-    <p>If you didn't get registered at Craft Pride on Thursday, you'll want to make sure you show
-    up with enough time to get your badge and check in. Additionally, if you've ever wanted to taste
-    the best breakfast tacos of your entire life, you should also show up a little early.</p>
-    <p>Thanks to <a href="http://www.spiceworks.com/jobs/">Spiceworks</a>, we'll have Tacodeli breakfast tacos available in the
-    morning. Make sure you find some of them and thank them with a full mouth of eggs and chorizo.</p>
-    <p>
-      <a href="http://www.spiceworks.com/jobs/"><img src="pixels/sponsors/spiceworks-logo.svg" style="padding:45px 0;" width="300" alt="Spiceworks" /></a>
-    </p>
+    <p>If you didn't get registered at Craft Pride on Thursday, you'll want to make sure you show up with enough time to get your badge and check in. Additionally, if you've ever wanted to taste the best breakfast tacos of your entire life, you should also show up a little early.</p>
+    <p>Thanks to <a href="http://www.spiceworks.com/jobs/">Spiceworks</a>, we'll have Tacodeli breakfast tacos available in the morning. Make sure you find some of them and thank them with a full mouth of eggs and chorizo.</p>
   </div>
 </section>
 
