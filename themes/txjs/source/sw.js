@@ -11,7 +11,7 @@
  limitations under the License.
 */
 
-var CACHE_VERSION = 14;
+var CACHE_VERSION = 25;
 var CURRENT_CACHES = {
   'read-through': 'read-through-cache-v' + CACHE_VERSION
 };
@@ -242,7 +242,7 @@ self.addEventListener('fetch', function(event) {
             return response;
           }
           cache.put(event.request, response.clone());
-          if (event.request.url === 'https://5ee08061.ngrok.com/' || event.request.url === 'https://2015.texasjavscript.com/') {
+          if (event.request.url === 'https://2015.texasjavascript.com/') {
             // trigger a reload on parent.
             if (immediateResult.headers.get('Build-Version') !== response.headers.get('Build-Version')) {
               sendMessage('PAGEUPDATEDYO');
