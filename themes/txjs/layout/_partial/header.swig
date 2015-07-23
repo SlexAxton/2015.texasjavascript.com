@@ -50,7 +50,7 @@
           <span class="day-week-short">Fri</span>
         </h3>
         <ul>
-          <li>
+          <li class="alt">
             <a href="#registration">
               <span class="thing">Registration &amp; Tacos</span>
               <span class="time">
@@ -86,7 +86,7 @@
               </span>
             </a>
           </li>
-          <li>
+          <li class="alt">
             <a href="#lunch">
               <span class="thing">Lunch in Town</span>
               <span class="time">
@@ -122,7 +122,7 @@
               </span>
             </a>
           </li>
-          <li>
+          <li class="alt">
             <a href="#afterparty">
               <span class="thing">Closing Party</span>
               <span class="time">

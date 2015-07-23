@@ -127,10 +127,13 @@ $sidebar-width = 220px;
 
 #header ul li .time {
   display: inline-block;
-  min-width: 3.5rem;
+  min-width: 3.375rem;
   font-weight: bold;
   text-transform: uppercase;
   opacity: .5;
+  padding-right: 0.5rem;
+  margin-left: 0.25rem;
+  border-radius: 2px;
 }
 
 #header ul li .time small {
@@ -233,7 +236,10 @@ p em {
   display: block;
   border-radius: 2px;
   text-decoration: none;
-  padding-right: 0.5rem;
+}
+
+#menu li.alt a .time {
+  background-color: rgba(255,255,255,.15);
 }
 
 #menu li a:hover {
