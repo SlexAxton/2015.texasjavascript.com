@@ -213,6 +213,7 @@ p em {
 
 #menu a {
   color: #fff;
+  display: block;
 }
 
 @media only screen and (max-width: 64em) {
@@ -236,15 +237,6 @@ p em {
     box-sizing: border-box;
   }
 
-  .ribbon {
-    position: relative;
-    width: 100%;
-    top: 4rem;
-    padding: 0;
-    z-index: 1;
-    opacity: 0;
-  }
-
   .container-header {
     width: 3rem;
   }
@@ -253,6 +245,24 @@ p em {
     position: absolute;
     width: 100%;
     right: auto;
+  }
+
+  .ribbon {
+    position: relative;
+    width: 100%;
+    top: 4rem;
+    padding: 0;
+    z-index: 1;
+  }
+
+  .ribbon .day:not(.active),
+  .ribbon .day .thing,
+  .ribbon .day h3 {
+    display: none;
+  }
+
+  .ribbon a {
+    padding: .75rem 0;
   }
 
 }
