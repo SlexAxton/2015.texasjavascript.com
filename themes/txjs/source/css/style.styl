@@ -218,7 +218,7 @@ p em {
 @media only screen and (max-width: 64em) {
 
   body {
-    padding-left: 50px;
+    padding-left: 3rem;
   }
 
   .row {
@@ -229,31 +229,30 @@ p em {
     padding: 0;
   }
 
-  .ribbon,
   .container-article {
     position: static;
     width: 100%;
-  }
-
-  .container-article {
     padding-top: 1rem;
+    box-sizing: border-box;
   }
 
   .ribbon {
+    position: relative;
+    width: 100%;
+    top: 4rem;
     padding: 0;
     z-index: 1;
-    position: relative;
     opacity: 0;
   }
 
   .container-header {
-    width: 50px;
+    width: 3rem;
   }
 
   #header:after {
     position: absolute;
-    right: auto;
     width: 100%;
+    right: auto;
   }
 
 }
