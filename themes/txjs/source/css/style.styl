@@ -250,7 +250,8 @@ p em {
     box-sizing: border-box;
   }
 
-  .container-header {
+  .container-header,
+  #header .ribbon #menu {
     width: 3rem;
   }
 
@@ -275,8 +276,20 @@ p em {
     display: none;
   }
 
-  #header .ribbon .day .day-week-short {
+  #header .ribbon .day .day-week-short,
+  #header .ribbon .day .day-date {
+    font-weight: normal;
+    line-height: 1;
     display: block;
+    text-align: center;
+  }
+
+  #header .ribbon .day .day-week-short {
+
+  }
+
+  #header .ribbon .day .day-date {
+    font-size: 1.5rem;
   }
 
   #header .ribbon .day .time,
