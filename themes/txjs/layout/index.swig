@@ -1,7 +1,7 @@
 {% extends 'ancestor.swig' %}
 
 {% block primary %}
-<section class="row">
+<section class="row row-title-date">
   <div class="col-xs">
     <h2 class="title-date">
       Friday, July 24, 2015<br>
