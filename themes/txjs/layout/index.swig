@@ -68,25 +68,12 @@
   <div id="welcome" class="col-xs">
     <h2 class="time-header">8:50 &ndash; 9:00am</h2>
     <h1>Welcome to TXJS</h1>
+    <a class="logo-sponsor" href="https://www.spredfast.com/about-us/careers/"><img src="pixels/sponsors/spredfast-logo-2.svg" alt="Spredfast" /></a>
     <h6 class="presented-by">Fast &amp; Reliable WiFi sponsored by <a href="https://www.spredfast.com/about-us/careers/">Spredfast</a></h6>
-    <p>We'll start our day pretty early, but it'll be worth it because we've got a giant list of
-    amazing speakers to share with you.</p>
-
+    <p>We'll start our day pretty early, but it'll be worth it because we've got a giant list of amazing speakers to share with you.</p>
     <h3 class="innerheader">How the day works</h3>
-    <p>
-    There will be <strong>5 groups</strong> of talks.<br>
-    Each group will have <strong>3 speakers</strong>.<br>
-    Each speaker will speak for <strong>25 minutes</strong>.
-    </p>
-
-    <p>
-    The topics of the talks are loosely related to each other, but the presenters are each providing
-    a unique view into different aspects of a general topic.
-    </p>
-
-    <p>
-      <a href=https://www.spredfast.com/about-us/careers/><img src=pixels/sponsors/spredfast-logo-2.svg width=300 style="padding-top:20px;" alt="Spredfast" /></a>
-    </p>
+    <p>There will be <strong>5 groups</strong> of talks.<br />Each group will have <strong>3 speakers</strong>.<br />Each speaker will speak for <strong>25 minutes</strong>.</p>
+    <p>The topics of the talks are loosely related to each other, but the presenters are each providing a unique view into different aspects of a general topic.</p>
   </div>
 </section>
 
