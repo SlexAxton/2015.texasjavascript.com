@@ -42,36 +42,16 @@
   <div id="craftpride" class="col-xs">
     <h2 class="time-header">6:30pm - 9:30pm at <a href="https://goo.gl/maps/DkGe4">Craft Pride</a></h2>
     <h1 class="section-header--sponsored">Thursday Night <br><em>Gathering</em></h1>
+    <a class="logo-sponsor" href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html"><img src="pixels/sponsors/bv.png" alt="Bazaarvoice" /></a>
     <h6 class="presented-by">Sponsored by <a href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html">Bazaarvoice</a></h6>
   </div>
 </section>
 
 <section class="row">
   <div class="col-xs">
-    <p>
-      Thanks to the fine folks at
-      <a href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html">Bazaarvoice</a>,
-      we're meeting up at Craft Pride on Rainey Street for a few hours to say hi to all the folks in town. Bazaarvoice
-      will have a tab open for sodas and beer, but there are also a bunch of food trucks around the area and
-      in the backyard.
-    </p>
-    <p>
-      We'll be doing <strong>early registrations</strong> at Craft Pride, so swing on by if you're not a morning
-      person!
-    </p>
-    <p>
-    <strong>Craft Pride is located at:</strong><br>
-      <br>
-
-      <a href="https://goo.gl/maps/DkGe4">
-        61 Rainey St<br>Austin, TX 78701
-      </a>
-      </span>
-    </p>
-
-    <p>
-      <a href=http://www.bazaarvoice.com/careers/research-and-development/front-end.html><img src=pixels/sponsors/bv.png style="padding:20px 0;" width=300 alt="Bazaarvoice" /></a>
-    </p>
+    <p>Thanks to the fine folks at <a href="http://www.bazaarvoice.com/careers/research-and-development/front-end.html">Bazaarvoice</a>, we're meeting up at Craft Pride on Rainey Street for a few hours to say hi to all the folks in town. Bazaarvoice will have a tab open for sodas and beer, but there are also a bunch of food trucks around the area and in the backyard.</p>
+    <p>We'll be doing <strong>early registrations</strong> at Craft Pride, so swing on by if you're not a morning person!</p>
+    <p><strong>Craft Pride is located at:</strong><br /><a href="https://goo.gl/maps/DkGe4">61 Rainey St<br />Austin, TX 78701</a></p>
   </div>
 </section>
 
