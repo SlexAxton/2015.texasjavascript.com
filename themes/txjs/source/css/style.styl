@@ -185,7 +185,7 @@ $sidebar-width = 220px;
 .time-header {
   font-weight: 200;
   margin-bottom: 0.25rem;
-  letter-spacing: 0;
+  letter-spacing: -0.05rem;
   border-top: 2px solid #E02A3F;
   padding-top: 1rem;
   font-size: 1.5rem;
@@ -444,6 +444,10 @@ p em {
     max-height: 3.5rem;
   }
 
+  .speaker-list {
+    margin: 0 -.5rem 1rem;
+  }
+
 }
 
 @media only screen and (max-width: 72em) {
@@ -451,6 +455,15 @@ p em {
   .speaker-label-first,
   .speaker-label-last {
     display: block;
+  }
+
+  .food-group li {
+    margin-bottom: .5rem;
+  }
+
+  .food-note {
+    display: block;
+    padding: 0;
   }
 
 }
