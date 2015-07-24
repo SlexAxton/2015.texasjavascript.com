@@ -141,11 +141,11 @@
 
     // Add the active class to the li element
     var activeLinkElem = the24thElem
-      .querySelector('[href="#'+selectedTime.label+'"]');
+      .querySelector('[href="/#'+selectedTime.label+'"]');
 
     activeLinkElem.parentNode.classList.add('active');
 
-    if (isFirstRun) {
+    if (isFirstRun && location.pathname === '/') {
       activeLinkElem.click();
     }
   }
